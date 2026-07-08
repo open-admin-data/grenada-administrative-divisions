@@ -1,0 +1,45 @@
+{
+  "id": "GD04L015",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Confer",
+    "en": "Confer",
+    "slug": "confer-gd04l015"
+  },
+  "code": {
+    "id": "GD04L015",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD04",
+    "level": 1,
+    "name": {
+      "local": "St. George",
+      "en": "Saint George",
+      "slug": "saint-george-gd04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.017",
+    "lon": "-61.717"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GD04L088",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "True Blue",
+    "en": "True Blue",
+    "slug": "true-blue-gd04l088"
+  },
+  "code": {
+    "id": "GD04L088",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD04",
+    "level": 1,
+    "name": {
+      "local": "St. George",
+      "en": "Saint George",
+      "slug": "saint-george-gd04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.004",
+    "lon": "-61.769"
+  },
+  "metadata": {},
+  "source": {}
+}

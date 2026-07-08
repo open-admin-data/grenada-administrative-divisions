@@ -1,0 +1,45 @@
+{
+  "id": "GD06L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Industry",
+    "en": "Industry",
+    "slug": "industry-gd06l003"
+  },
+  "code": {
+    "id": "GD06L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD06",
+    "level": 1,
+    "name": {
+      "local": "St. Mark",
+      "en": "Saint Mark",
+      "slug": "saint-mark-gd06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD06",
+      "level": 1,
+      "name": {
+        "local": "St. Mark",
+        "en": "Saint Mark",
+        "slug": "saint-mark-gd06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.217",
+    "lon": "-61.683"
+  },
+  "metadata": {},
+  "source": {}
+}

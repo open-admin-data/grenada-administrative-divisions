@@ -1,0 +1,45 @@
+{
+  "id": "GD02L044",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "La Poterie",
+    "en": "La Poterie",
+    "slug": "la-poterie-gd02l044"
+  },
+  "code": {
+    "id": "GD02L044",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD02",
+    "level": 1,
+    "name": {
+      "local": "St. Andrew",
+      "en": "Saint Andrew",
+      "slug": "saint-andrew-gd02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD02",
+      "level": 1,
+      "name": {
+        "local": "St. Andrew",
+        "en": "Saint Andrew",
+        "slug": "saint-andrew-gd02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.173",
+    "lon": "-61.609"
+  },
+  "metadata": {},
+  "source": {}
+}

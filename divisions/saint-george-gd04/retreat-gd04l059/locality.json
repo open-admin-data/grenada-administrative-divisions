@@ -1,0 +1,45 @@
+{
+  "id": "GD04L059",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Retreat",
+    "en": "Retreat",
+    "slug": "retreat-gd04l059"
+  },
+  "code": {
+    "id": "GD04L059",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD04",
+    "level": 1,
+    "name": {
+      "local": "St. George",
+      "en": "Saint George",
+      "slug": "saint-george-gd04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.067",
+    "lon": "-61.717"
+  },
+  "metadata": {},
+  "source": {}
+}

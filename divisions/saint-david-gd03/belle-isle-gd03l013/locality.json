@@ -1,0 +1,45 @@
+{
+  "id": "GD03L013",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Belle Isle",
+    "en": "Belle Isle",
+    "slug": "belle-isle-gd03l013"
+  },
+  "code": {
+    "id": "GD03L013",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD03",
+    "level": 1,
+    "name": {
+      "local": "St. David",
+      "en": "Saint David",
+      "slug": "saint-david-gd03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.034",
+    "lon": "-61.651"
+  },
+  "metadata": {},
+  "source": {}
+}

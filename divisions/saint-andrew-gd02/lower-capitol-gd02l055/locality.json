@@ -1,0 +1,45 @@
+{
+  "id": "GD02L055",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lower Capitol",
+    "en": "Lower Capitol",
+    "slug": "lower-capitol-gd02l055"
+  },
+  "code": {
+    "id": "GD02L055",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD02",
+    "level": 1,
+    "name": {
+      "local": "St. Andrew",
+      "en": "Saint Andrew",
+      "slug": "saint-andrew-gd02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD02",
+      "level": 1,
+      "name": {
+        "local": "St. Andrew",
+        "en": "Saint Andrew",
+        "slug": "saint-andrew-gd02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.117",
+    "lon": "-61.667"
+  },
+  "metadata": {},
+  "source": {}
+}

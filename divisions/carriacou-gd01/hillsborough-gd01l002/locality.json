@@ -1,0 +1,45 @@
+{
+  "id": "GD01L002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Hillsborough",
+    "en": "Hillsborough",
+    "slug": "hillsborough-gd01l002"
+  },
+  "code": {
+    "id": "GD01L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD01",
+    "level": 1,
+    "name": {
+      "local": "Carriacou",
+      "en": "Carriacou",
+      "slug": "carriacou-gd01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.483",
+    "lon": "-61.456"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,27 @@
+# Grenada Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Per-Parish Data Files
+
+- [Carriacou](https://github.com/open-admin-data/grenada-administrative-divisions/blob/main/docs/llms-full/carriacou-gd01.txt) — 17 localitys
+- [Saint Andrew](https://github.com/open-admin-data/grenada-administrative-divisions/blob/main/docs/llms-full/saint-andrew-gd02.txt) — 68 localitys
+- [Saint David](https://github.com/open-admin-data/grenada-administrative-divisions/blob/main/docs/llms-full/saint-david-gd03.txt) — 37 localitys
+- [Saint George](https://github.com/open-admin-data/grenada-administrative-divisions/blob/main/docs/llms-full/saint-george-gd04.txt) — 93 localitys
+- [Saint John](https://github.com/open-admin-data/grenada-administrative-divisions/blob/main/docs/llms-full/saint-john-gd05.txt) — 20 localitys
+- [Saint Mark](https://github.com/open-admin-data/grenada-administrative-divisions/blob/main/docs/llms-full/saint-mark-gd06.txt) — 12 localitys
+- [Saint Patrick](https://github.com/open-admin-data/grenada-administrative-divisions/blob/main/docs/llms-full/saint-patrick-gd07.txt) — 30 localitys
+- [Petite Martinique](https://github.com/open-admin-data/grenada-administrative-divisions/blob/main/docs/llms-full/petite-martinique-gd08.txt) — 2 localitys
+
+## Summary
+
+| Parish | Localitys | 
+|---|---|
+| Carriacou | 17 | 
+| Saint Andrew | 68 | 
+| Saint David | 37 | 
+| Saint George | 93 | 
+| Saint John | 20 | 
+| Saint Mark | 12 | 
+| Saint Patrick | 30 | 
+| Petite Martinique | 2 | 

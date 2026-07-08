@@ -1,0 +1,45 @@
+{
+  "id": "GD07L019",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "River Sallee",
+    "en": "River Sallee",
+    "slug": "river-sallee-gd07l019"
+  },
+  "code": {
+    "id": "GD07L019",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD07",
+    "level": 1,
+    "name": {
+      "local": "St. Patrick",
+      "en": "Saint Patrick",
+      "slug": "saint-patrick-gd07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.198",
+    "lon": "-61.616"
+  },
+  "metadata": {},
+  "source": {}
+}

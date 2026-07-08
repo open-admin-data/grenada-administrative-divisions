@@ -1,0 +1,45 @@
+{
+  "id": "GD01L010",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Windward",
+    "en": "Windward",
+    "slug": "windward-gd01l010"
+  },
+  "code": {
+    "id": "GD01L010",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD01",
+    "level": 1,
+    "name": {
+      "local": "Carriacou",
+      "en": "Carriacou",
+      "slug": "carriacou-gd01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.512",
+    "lon": "-61.43"
+  },
+  "metadata": {},
+  "source": {}
+}

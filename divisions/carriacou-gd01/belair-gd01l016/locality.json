@@ -1,0 +1,45 @@
+{
+  "id": "GD01L016",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Belair",
+    "en": "Belair",
+    "slug": "belair-gd01l016"
+  },
+  "code": {
+    "id": "GD01L016",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD01",
+    "level": 1,
+    "name": {
+      "local": "Carriacou",
+      "en": "Carriacou",
+      "slug": "carriacou-gd01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.492",
+    "lon": "-61.441"
+  },
+  "metadata": {},
+  "source": {}
+}

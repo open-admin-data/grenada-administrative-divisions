@@ -1,0 +1,45 @@
+{
+  "id": "GD06L009",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "L'Esperance",
+    "en": "L'Esperance",
+    "slug": "l-esperance-gd06l009"
+  },
+  "code": {
+    "id": "GD06L009",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD06",
+    "level": 1,
+    "name": {
+      "local": "St. Mark",
+      "en": "Saint Mark",
+      "slug": "saint-mark-gd06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD06",
+      "level": 1,
+      "name": {
+        "local": "St. Mark",
+        "en": "Saint Mark",
+        "slug": "saint-mark-gd06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.183",
+    "lon": "-61.7"
+  },
+  "metadata": {},
+  "source": {}
+}

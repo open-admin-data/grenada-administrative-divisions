@@ -1,0 +1,33 @@
+{
+  "id": "GD03",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "St. David",
+    "en": "Saint David",
+    "slug": "saint-david-gd03"
+  },
+  "code": {
+    "id": "GD03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 37
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.043",
+    "lon": "-61.678"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gd/parishes/saint-david-gd03/",
+    "api": "https://openadmindata.org/api/gd/"
+  }
+}

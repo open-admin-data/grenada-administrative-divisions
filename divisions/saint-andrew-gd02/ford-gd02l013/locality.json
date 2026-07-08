@@ -1,0 +1,45 @@
+{
+  "id": "GD02L013",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ford",
+    "en": "Ford",
+    "slug": "ford-gd02l013"
+  },
+  "code": {
+    "id": "GD02L013",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD02",
+    "level": 1,
+    "name": {
+      "local": "St. Andrew",
+      "en": "Saint Andrew",
+      "slug": "saint-andrew-gd02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD02",
+      "level": 1,
+      "name": {
+        "local": "St. Andrew",
+        "en": "Saint Andrew",
+        "slug": "saint-andrew-gd02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.118",
+    "lon": "-61.625"
+  },
+  "metadata": {},
+  "source": {}
+}

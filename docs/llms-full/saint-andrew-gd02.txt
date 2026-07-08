@@ -1,0 +1,349 @@
+# Saint Andrew — Grenada Administrative Divisions
+
+> 68 localitys
+> Code: GD02
+> Coordinates: 12.116, -61.661
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Adelphi
+
+Code: GD02L005, Coordinates: 12.1, -61.667
+
+
+### Arthur Seat
+
+Code: GD02L060, Coordinates: 12.167, -61.633
+
+
+### Barique
+
+Code: GD02L031, Coordinates: 12.167, -61.65
+
+
+### Battle Hill
+
+Code: GD02L029, Coordinates: 12.1, -61.617
+
+
+### Beauregard
+
+Code: GD02L035, Coordinates: 12.113, -61.676
+
+
+### Belair
+
+Code: GD02L016, Coordinates: 12.15, -61.617
+
+
+### Bellevue
+
+Code: GD02L004, Coordinates: 12.1, -61.65
+
+
+### Belmont
+
+Code: GD02L026, Coordinates: 12.167, -61.633
+
+
+### Birch Grove
+
+Code: GD02L041, Coordinates: 12.1, -61.667
+
+
+### Blaize
+
+Code: GD02L022, Coordinates: 12.15, -61.65
+
+
+### Brandon Hall
+
+Code: GD02L048, Coordinates: 12.117, -61.633
+
+
+### Bylands
+
+Code: GD02L068, Coordinates: 12.133, -61.667
+
+
+### Carriere
+
+Code: GD02L066, Coordinates: 12.167, -61.633
+
+
+### Castaigne
+
+Code: GD02L039, Coordinates: 12.117, -61.667
+
+
+### Chutz
+
+Code: GD02L065, Coordinates: 12.1, -61.65
+
+
+### Clabony
+
+Code: GD02L025, Coordinates: 12.135, -61.66
+
+
+### Deblando
+
+Code: GD02L062, Coordinates: 12.1, -61.633
+
+
+### Dunfermline
+
+Code: GD02L003, Coordinates: 12.138, -61.631
+
+
+### Ford
+
+Code: GD02L013, Coordinates: 12.118, -61.625
+
+
+### Grand Bras
+
+Code: GD02L061, Coordinates: 12.133, -61.633
+
+
+### Grand Bras
+
+Code: GD02L063, Coordinates: 12.117, -61.633
+
+
+### Grenville
+
+Code: GD02L002, Coordinates: 12.117, -61.617
+
+
+### Harford Village
+
+Code: GD02L042, Coordinates: 12.117, -61.633
+
+
+### Hermitage
+
+Code: GD02L030, Coordinates: 12.167, -61.633
+
+
+### Hermon
+
+Code: GD02L011, Coordinates: 12.15, -61.617
+
+
+### Hope Bacolet
+
+Code: GD02L049, Coordinates: 12.079, -61.622
+
+
+### L&#39;Esterre
+
+Code: GD02L038, Coordinates: 12.117, -61.633
+
+
+### La Digue
+
+Code: GD02L054, Coordinates: 12.1, -61.633
+
+
+### La Filette
+
+Code: GD02L028, Coordinates: 12.133, -61.633
+
+
+### La Poterie
+
+Code: GD02L044, Coordinates: 12.173, -61.609
+
+
+### Lower Capitol
+
+Code: GD02L055, Coordinates: 12.117, -61.667
+
+
+### Lower Pearls
+
+Code: GD02L045, Coordinates: 12.142, -61.626
+
+
+### Marquis
+
+Code: GD02L021, Coordinates: 12.105, -61.628
+
+
+### Mirabeau
+
+Code: GD02L046, Coordinates: 12.117, -61.65
+
+
+### Morne Longue
+
+Code: GD02L015, Coordinates: 12.117, -61.683
+
+
+### Mount Carmel
+
+Code: GD02L009, Coordinates: 12.089, -61.631
+
+
+### Mount Fann
+
+Code: GD02L008, Coordinates: 12.083, -61.633
+
+
+### Mount Hope
+
+Code: GD02L043, Coordinates: 12.15, -61.667
+
+
+### Mount Horne
+
+Code: GD02L036, Coordinates: 12.133, -61.633
+
+
+### Moya
+
+Code: GD02L018, Coordinates: 12.155, -61.626
+
+
+### Nianganfoix
+
+Code: GD02L056, Coordinates: 12.117, -61.667
+
+
+### Paraclete
+
+Code: GD02L032, Coordinates: 12.15, -61.633
+
+
+### Paradise
+
+Code: GD02L006, Coordinates: 12.137, -61.623
+
+
+### Pearls
+
+Code: GD02L057, Coordinates: 12.15, -61.617
+
+
+### Pecher
+
+Code: GD02L012, Coordinates: 12.117, -61.683
+
+
+### Peggys Whim
+
+Code: GD02L058, Coordinates: 12.167, -61.633
+
+
+### Petit Balthazar
+
+Code: GD02L064, Coordinates: 12.1, -61.667
+
+
+### Plaisance
+
+Code: GD02L024, Coordinates: 12.1, -61.633
+
+
+### Plaisance Land Settlement
+
+Code: GD02L001, Coordinates: 12.127, -61.679
+
+
+### Post Royal
+
+Code: GD02L017, Coordinates: 12.1, -61.633
+
+
+### Pyrenees
+
+Code: GD02L020, Coordinates: 12.133, -61.667
+
+
+### Richmond
+
+Code: GD02L033, Coordinates: 12.1, -61.65
+
+
+### Saint Cloud
+
+Code: GD02L027, Coordinates: 12.117, -61.633
+
+
+### Saint Cyr
+
+Code: GD02L023, Coordinates: 12.117, -61.65
+
+
+### Saint Cyr
+
+Code: GD02L047, Coordinates: 12.1, -61.683
+
+
+### Saint James
+
+Code: GD02L052, Coordinates: 12.1, -61.65
+
+
+### Saint John
+
+Code: GD02L037, Coordinates: 12.17, -61.639
+
+
+### Saint John
+
+Code: GD02L053, Coordinates: 12.117, -61.633
+
+
+### Saint Margaret
+
+Code: GD02L050, Coordinates: 12.1, -61.683
+
+
+### Saint Omer
+
+Code: GD02L067, Coordinates: 12.133, -61.667
+
+
+### Simon
+
+Code: GD02L034, Coordinates: 12.138, -61.615
+
+
+### Soubise
+
+Code: GD02L019, Coordinates: 12.1, -61.617
+
+
+### Telescope
+
+Code: GD02L040, Coordinates: 12.127, -61.61
+
+
+### Tivoli
+
+Code: GD02L051, Coordinates: 12.167, -61.617
+
+
+### Union Village
+
+Code: GD02L010, Coordinates: 12.1, -61.633
+
+
+### Upper Capitol
+
+Code: GD02L059, Coordinates: 12.117, -61.667
+
+
+### Upper Pearls
+
+Code: GD02L014, Coordinates: 12.15, -61.617
+
+
+### Windsor
+
+Code: GD02L007, Coordinates: 12.132, -61.668
+
+

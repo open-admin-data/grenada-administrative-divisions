@@ -1,0 +1,45 @@
+{
+  "id": "GD02L051",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Tivoli",
+    "en": "Tivoli",
+    "slug": "tivoli-gd02l051"
+  },
+  "code": {
+    "id": "GD02L051",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD02",
+    "level": 1,
+    "name": {
+      "local": "St. Andrew",
+      "en": "Saint Andrew",
+      "slug": "saint-andrew-gd02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD02",
+      "level": 1,
+      "name": {
+        "local": "St. Andrew",
+        "en": "Saint Andrew",
+        "slug": "saint-andrew-gd02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.167",
+    "lon": "-61.617"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,109 @@
+# Saint John — Grenada Administrative Divisions
+
+> 20 localitys
+> Code: GD05
+> Coordinates: 12.145, -61.712
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Belvidere
+
+Code: GD05L003, Coordinates: 12.133, -61.7
+
+
+### Chadeau
+
+Code: GD05L004, Coordinates: 12.133, -61.683
+
+
+### Clozier
+
+Code: GD05L019, Coordinates: 12.143, -61.698
+
+
+### Concord
+
+Code: GD05L013, Coordinates: 12.117, -61.733
+
+
+### Dothan
+
+Code: GD05L015, Coordinates: 12.133, -61.733
+
+
+### Florida
+
+Code: GD05L010, Coordinates: 12.161, -61.705
+
+
+### Gouyave
+
+Code: GD05L001, Coordinates: 12.165, -61.73
+
+
+### Grand Roy
+
+Code: GD05L008, Coordinates: 12.132, -61.745
+
+
+### Mabouya
+
+Code: GD05L018, Coordinates: 12.148, -61.73
+
+
+### Maran
+
+Code: GD05L009, Coordinates: 12.175, -61.722
+
+
+### Marigot
+
+Code: GD05L011, Coordinates: 12.123, -61.744
+
+
+### Mon Plaisir
+
+Code: GD05L020, Coordinates: 12.117, -61.717
+
+
+### Morne Jaloux
+
+Code: GD05L005, Coordinates: 12.133, -61.683
+
+
+### Mount Cenis
+
+Code: GD05L012, Coordinates: 12.167, -61.7
+
+
+### Mount Nesbit
+
+Code: GD05L017, Coordinates: 12.133, -61.717
+
+
+### Mount Nesbit Land Settlement
+
+Code: GD05L007, Coordinates: 12.133, -61.717
+
+
+### Paradise
+
+Code: GD05L016, Coordinates: 12.133, -61.683
+
+
+### Rosemont
+
+Code: GD05L002, Coordinates: 12.15, -61.7
+
+
+### Saint Mary
+
+Code: GD05L014, Coordinates: 12.15, -61.7
+
+
+### The Lance
+
+Code: GD05L006, Coordinates: 12.167, -61.717
+
+

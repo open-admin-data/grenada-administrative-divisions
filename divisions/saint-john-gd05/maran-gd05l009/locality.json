@@ -1,0 +1,45 @@
+{
+  "id": "GD05L009",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Maran",
+    "en": "Maran",
+    "slug": "maran-gd05l009"
+  },
+  "code": {
+    "id": "GD05L009",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD05",
+    "level": 1,
+    "name": {
+      "local": "St. John",
+      "en": "Saint John",
+      "slug": "saint-john-gd05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.175",
+    "lon": "-61.722"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GD07L013",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "La Fortune",
+    "en": "La Fortune",
+    "slug": "la-fortune-gd07l013"
+  },
+  "code": {
+    "id": "GD07L013",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD07",
+    "level": 1,
+    "name": {
+      "local": "St. Patrick",
+      "en": "Saint Patrick",
+      "slug": "saint-patrick-gd07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.217",
+    "lon": "-61.633"
+  },
+  "metadata": {},
+  "source": {}
+}

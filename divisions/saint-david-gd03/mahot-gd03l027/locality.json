@@ -1,0 +1,45 @@
+{
+  "id": "GD03L027",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Mahot",
+    "en": "Mahot",
+    "slug": "mahot-gd03l027"
+  },
+  "code": {
+    "id": "GD03L027",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD03",
+    "level": 1,
+    "name": {
+      "local": "St. David",
+      "en": "Saint David",
+      "slug": "saint-david-gd03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.059",
+    "lon": "-61.637"
+  },
+  "metadata": {},
+  "source": {}
+}

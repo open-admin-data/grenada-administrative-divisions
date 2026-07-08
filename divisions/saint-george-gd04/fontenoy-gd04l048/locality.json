@@ -1,0 +1,45 @@
+{
+  "id": "GD04L048",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Fontenoy",
+    "en": "Fontenoy",
+    "slug": "fontenoy-gd04l048"
+  },
+  "code": {
+    "id": "GD04L048",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD04",
+    "level": 1,
+    "name": {
+      "local": "St. George",
+      "en": "Saint George",
+      "slug": "saint-george-gd04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.067",
+    "lon": "-61.75"
+  },
+  "metadata": {},
+  "source": {}
+}

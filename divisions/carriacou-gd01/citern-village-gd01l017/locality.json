@@ -1,0 +1,45 @@
+{
+  "id": "GD01L017",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Citern Village",
+    "en": "Citern Village",
+    "slug": "citern-village-gd01l017"
+  },
+  "code": {
+    "id": "GD01L017",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD01",
+    "level": 1,
+    "name": {
+      "local": "Carriacou",
+      "en": "Carriacou",
+      "slug": "carriacou-gd01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.518",
+    "lon": "-61.391"
+  },
+  "metadata": {},
+  "source": {}
+}

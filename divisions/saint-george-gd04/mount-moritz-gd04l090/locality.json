@@ -1,0 +1,45 @@
+{
+  "id": "GD04L090",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Mount Moritz",
+    "en": "Mount Moritz",
+    "slug": "mount-moritz-gd04l090"
+  },
+  "code": {
+    "id": "GD04L090",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD04",
+    "level": 1,
+    "name": {
+      "local": "St. George",
+      "en": "Saint George",
+      "slug": "saint-george-gd04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.082",
+    "lon": "-61.748"
+  },
+  "metadata": {},
+  "source": {}
+}

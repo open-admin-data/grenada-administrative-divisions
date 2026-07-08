@@ -1,0 +1,45 @@
+{
+  "id": "GD04L002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Westerhall Land Settlement",
+    "en": "Westerhall Land Settlement",
+    "slug": "westerhall-land-settlement-gd04l002"
+  },
+  "code": {
+    "id": "GD04L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD04",
+    "level": 1,
+    "name": {
+      "local": "St. George",
+      "en": "Saint George",
+      "slug": "saint-george-gd04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.015",
+    "lon": "-61.727"
+  },
+  "metadata": {},
+  "source": {}
+}

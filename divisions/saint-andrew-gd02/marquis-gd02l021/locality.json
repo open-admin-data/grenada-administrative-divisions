@@ -1,0 +1,45 @@
+{
+  "id": "GD02L021",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Marquis",
+    "en": "Marquis",
+    "slug": "marquis-gd02l021"
+  },
+  "code": {
+    "id": "GD02L021",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD02",
+    "level": 1,
+    "name": {
+      "local": "St. Andrew",
+      "en": "Saint Andrew",
+      "slug": "saint-andrew-gd02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD02",
+      "level": 1,
+      "name": {
+        "local": "St. Andrew",
+        "en": "Saint Andrew",
+        "slug": "saint-andrew-gd02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.105",
+    "lon": "-61.628"
+  },
+  "metadata": {},
+  "source": {}
+}

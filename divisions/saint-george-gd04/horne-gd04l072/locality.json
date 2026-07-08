@@ -1,0 +1,45 @@
+{
+  "id": "GD04L072",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Horne",
+    "en": "Horne",
+    "slug": "horne-gd04l072"
+  },
+  "code": {
+    "id": "GD04L072",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD04",
+    "level": 1,
+    "name": {
+      "local": "St. George",
+      "en": "Saint George",
+      "slug": "saint-george-gd04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.004",
+    "lon": "-61.756"
+  },
+  "metadata": {},
+  "source": {}
+}

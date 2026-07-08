@@ -1,0 +1,45 @@
+{
+  "id": "GD05L013",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Concord",
+    "en": "Concord",
+    "slug": "concord-gd05l013"
+  },
+  "code": {
+    "id": "GD05L013",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD05",
+    "level": 1,
+    "name": {
+      "local": "St. John",
+      "en": "Saint John",
+      "slug": "saint-john-gd05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.117",
+    "lon": "-61.733"
+  },
+  "metadata": {},
+  "source": {}
+}

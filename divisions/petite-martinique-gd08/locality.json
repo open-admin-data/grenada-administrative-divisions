@@ -1,0 +1,92 @@
+[
+  {
+    "id": "GD08L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Meldrum",
+      "en": "Meldrum",
+      "slug": "meldrum-gd08l001"
+    },
+    "code": {
+      "id": "GD08L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD08",
+      "level": 1,
+      "name": {
+        "local": "Petite Martinique",
+        "en": "Petite Martinique",
+        "slug": "petite-martinique-gd08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD08",
+        "level": 1,
+        "name": {
+          "local": "Petite Martinique",
+          "en": "Petite Martinique",
+          "slug": "petite-martinique-gd08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.521",
+      "lon": "-61.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD08L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nahoo",
+      "en": "Nahoo",
+      "slug": "nahoo-gd08l002"
+    },
+    "code": {
+      "id": "GD08L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD08",
+      "level": 1,
+      "name": {
+        "local": "Petite Martinique",
+        "en": "Petite Martinique",
+        "slug": "petite-martinique-gd08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD08",
+        "level": 1,
+        "name": {
+          "local": "Petite Martinique",
+          "en": "Petite Martinique",
+          "slug": "petite-martinique-gd08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.515",
+      "lon": "-61.383"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

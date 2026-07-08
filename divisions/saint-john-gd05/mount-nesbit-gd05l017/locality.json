@@ -1,0 +1,45 @@
+{
+  "id": "GD05L017",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Mount Nesbit",
+    "en": "Mount Nesbit",
+    "slug": "mount-nesbit-gd05l017"
+  },
+  "code": {
+    "id": "GD05L017",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD05",
+    "level": 1,
+    "name": {
+      "local": "St. John",
+      "en": "Saint John",
+      "slug": "saint-john-gd05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.133",
+    "lon": "-61.717"
+  },
+  "metadata": {},
+  "source": {}
+}

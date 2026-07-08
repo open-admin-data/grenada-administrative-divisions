@@ -1,0 +1,194 @@
+# Saint David — Grenada Administrative Divisions
+
+> 37 localitys
+> Code: GD03
+> Coordinates: 12.043, -61.678
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Apres Tout
+
+Code: GD03L028, Coordinates: 12.05, -61.667
+
+
+### Baillies Bacolet
+
+Code: GD03L030, Coordinates: 12.033, -61.683
+
+
+### Belle Isle
+
+Code: GD03L013, Coordinates: 12.034, -61.651
+
+
+### Bellevue
+
+Code: GD03L017, Coordinates: 12.05, -61.65
+
+
+### Champs Fleurs
+
+Code: GD03L014, Coordinates: 12.05, -61.683
+
+
+### Charlotte Vale
+
+Code: GD03L008, Coordinates: 12.033, -61.7
+
+
+### Content
+
+Code: GD03L024, Coordinates: 12.033, -61.667
+
+
+### Corinth
+
+Code: GD03L037, Coordinates: 12.033, -61.667
+
+
+### Crochu
+
+Code: GD03L036, Coordinates: 12.05, -61.65
+
+
+### Fairfield
+
+Code: GD03L033, Coordinates: 12.05, -61.65
+
+
+### Felix Park
+
+Code: GD03L025, Coordinates: 12.067, -61.65
+
+
+### Fort Jeudy
+
+Code: GD03L011, Coordinates: 12, -61.709
+
+
+### Lower La Tante
+
+Code: GD03L026, Coordinates: 12.053, -61.646
+
+
+### Mahot
+
+Code: GD03L027, Coordinates: 12.059, -61.637
+
+
+### Mamma Cannes
+
+Code: GD03L035, Coordinates: 12.065, -61.651
+
+
+### Marlmount
+
+Code: GD03L015, Coordinates: 12.05, -61.65
+
+
+### Maulti
+
+Code: GD03L032, Coordinates: 12.033, -61.667
+
+
+### Mon Repos
+
+Code: GD03L012, Coordinates: 12.033, -61.667
+
+
+### Mount Agnes
+
+Code: GD03L007, Coordinates: 12.067, -61.667
+
+
+### Mount Cassell Land Settlement
+
+Code: GD03L016, Coordinates: 12.067, -61.65
+
+
+### Mount William
+
+Code: GD03L021, Coordinates: 12.067, -61.667
+
+
+### Munich
+
+Code: GD03L020, Coordinates: 12.082, -61.645
+
+
+### Petit Bacaye
+
+Code: GD03L009, Coordinates: 12.018, -61.695
+
+
+### Petit Etang
+
+Code: GD03L004, Coordinates: 12.05, -61.683
+
+
+### Pierre Marie
+
+Code: GD03L029, Coordinates: 12.067, -61.65
+
+
+### Pomme Rose
+
+Code: GD03L034, Coordinates: 12.05, -61.65
+
+
+### Providence
+
+Code: GD03L031, Coordinates: 12.05, -61.667
+
+
+### Retreat
+
+Code: GD03L019, Coordinates: 12.067, -61.667
+
+
+### Saint Davidâ€™s
+
+Code: GD03L001, Coordinates: 12.033, -61.667
+
+
+### Syracuse
+
+Code: GD03L023, Coordinates: 12.033, -61.683
+
+
+### Terre Cannes
+
+Code: GD03L010, Coordinates: 12.067, -61.667
+
+
+### Thebaide
+
+Code: GD03L002, Coordinates: 12.05, -61.667
+
+
+### Upper La Tante
+
+Code: GD03L022, Coordinates: 12.05, -61.65
+
+
+### Vincennes
+
+Code: GD03L018, Coordinates: 12.058, -61.687
+
+
+### Vineyard
+
+Code: GD03L005, Coordinates: 12.05, -61.7
+
+
+### Windsor Castle
+
+Code: GD03L003, Coordinates: 12.033, -61.7
+
+
+### Windsor Forest
+
+Code: GD03L006, Coordinates: 12.05, -61.683
+
+

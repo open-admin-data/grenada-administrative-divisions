@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "GD07L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Celeste",
+      "en": "Celeste",
+      "slug": "celeste-gd07l009"
+    },
+    "code": {
+      "id": "GD07L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-61.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chantimelle",
+      "en": "Chantimelle",
+      "slug": "chantimelle-gd07l002"
+    },
+    "code": {
+      "id": "GD07L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.212",
+      "lon": "-61.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Conference",
+      "en": "Conference",
+      "slug": "conference-gd07l004"
+    },
+    "code": {
+      "id": "GD07L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.15",
+      "lon": "-61.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Des Isles",
+      "en": "Des Isles",
+      "slug": "des-isles-gd07l017"
+    },
+    "code": {
+      "id": "GD07L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-61.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L025",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Elie Hall",
+      "en": "Elie Hall",
+      "slug": "elie-hall-gd07l025"
+    },
+    "code": {
+      "id": "GD07L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.2",
+      "lon": "-61.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Helvellyn",
+      "en": "Helvellyn",
+      "slug": "helvellyn-gd07l006"
+    },
+    "code": {
+      "id": "GD07L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-61.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "L'Etage",
+      "en": "L'Etage",
+      "slug": "l-etage-gd07l010"
+    },
+    "code": {
+      "id": "GD07L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.183",
+      "lon": "-61.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "La Fortune",
+      "en": "La Fortune",
+      "slug": "la-fortune-gd07l013"
+    },
+    "code": {
+      "id": "GD07L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-61.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "La Mode",
+      "en": "La Mode",
+      "slug": "la-mode-gd07l007"
+    },
+    "code": {
+      "id": "GD07L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.2",
+      "lon": "-61.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Levera",
+      "en": "Levera",
+      "slug": "levera-gd07l008"
+    },
+    "code": {
+      "id": "GD07L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-61.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Levera Development",
+      "en": "Levera Development",
+      "slug": "levera-development-gd07l005"
+    },
+    "code": {
+      "id": "GD07L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.2",
+      "lon": "-61.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L024",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lower La Taste",
+      "en": "Lower La Taste",
+      "slug": "lower-la-taste-gd07l024"
+    },
+    "code": {
+      "id": "GD07L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.183",
+      "lon": "-61.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L023",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Marli",
+      "en": "Marli",
+      "slug": "marli-gd07l023"
+    },
+    "code": {
+      "id": "GD07L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-61.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L029",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Montreuil",
+      "en": "Montreuil",
+      "slug": "montreuil-gd07l029"
+    },
+    "code": {
+      "id": "GD07L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.183",
+      "lon": "-61.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Morne Fendue",
+      "en": "Morne Fendue",
+      "slug": "morne-fendue-gd07l014"
+    },
+    "code": {
+      "id": "GD07L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.2",
+      "lon": "-61.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L030",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Alexander",
+      "en": "Mount Alexander",
+      "slug": "mount-alexander-gd07l030"
+    },
+    "code": {
+      "id": "GD07L030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-61.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L027",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Craven",
+      "en": "Mount Craven",
+      "slug": "mount-craven-gd07l027"
+    },
+    "code": {
+      "id": "GD07L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-61.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Rich",
+      "en": "Mount Rich",
+      "slug": "mount-rich-gd07l012"
+    },
+    "code": {
+      "id": "GD07L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.183",
+      "lon": "-61.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Rose",
+      "en": "Mount Rose",
+      "slug": "mount-rose-gd07l016"
+    },
+    "code": {
+      "id": "GD07L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.183",
+      "lon": "-61.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L021",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount William",
+      "en": "Mount William",
+      "slug": "mount-william-gd07l021"
+    },
+    "code": {
+      "id": "GD07L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-61.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L028",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Panorama",
+      "en": "Panorama",
+      "slug": "panorama-gd07l028"
+    },
+    "code": {
+      "id": "GD07L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.22",
+      "lon": "-61.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Prospect",
+      "en": "Prospect",
+      "slug": "prospect-gd07l015"
+    },
+    "code": {
+      "id": "GD07L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-61.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "River Sallee",
+      "en": "River Sallee",
+      "slug": "river-sallee-gd07l019"
+    },
+    "code": {
+      "id": "GD07L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.198",
+      "lon": "-61.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rose Hill",
+      "en": "Rose Hill",
+      "slug": "rose-hill-gd07l011"
+    },
+    "code": {
+      "id": "GD07L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.2",
+      "lon": "-61.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sauteurs",
+      "en": "Sauteurs",
+      "slug": "sauteurs-gd07l001"
+    },
+    "code": {
+      "id": "GD07L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-61.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Trevellan",
+      "en": "Trevellan",
+      "slug": "trevellan-gd07l018"
+    },
+    "code": {
+      "id": "GD07L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-61.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tricolar",
+      "en": "Tricolar",
+      "slug": "tricolar-gd07l020"
+    },
+    "code": {
+      "id": "GD07L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.183",
+      "lon": "-61.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L026",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Union",
+      "en": "Union",
+      "slug": "union-gd07l026"
+    },
+    "code": {
+      "id": "GD07L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.2",
+      "lon": "-61.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Upper La Taste",
+      "en": "Upper La Taste",
+      "slug": "upper-la-taste-gd07l003"
+    },
+    "code": {
+      "id": "GD07L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.183",
+      "lon": "-61.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD07L022",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Welcome Hall",
+      "en": "Welcome Hall",
+      "slug": "welcome-hall-gd07l022"
+    },
+    "code": {
+      "id": "GD07L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD07",
+        "level": 1,
+        "name": {
+          "local": "St. Patrick",
+          "en": "Saint Patrick",
+          "slug": "saint-patrick-gd07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.2",
+      "lon": "-61.65"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

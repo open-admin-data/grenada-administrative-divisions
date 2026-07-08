@@ -1,0 +1,45 @@
+{
+  "id": "GD07L022",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Welcome Hall",
+    "en": "Welcome Hall",
+    "slug": "welcome-hall-gd07l022"
+  },
+  "code": {
+    "id": "GD07L022",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD07",
+    "level": 1,
+    "name": {
+      "local": "St. Patrick",
+      "en": "Saint Patrick",
+      "slug": "saint-patrick-gd07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.2",
+    "lon": "-61.65"
+  },
+  "metadata": {},
+  "source": {}
+}

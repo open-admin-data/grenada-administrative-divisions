@@ -1,0 +1,45 @@
+{
+  "id": "GD07L007",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "La Mode",
+    "en": "La Mode",
+    "slug": "la-mode-gd07l007"
+  },
+  "code": {
+    "id": "GD07L007",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD07",
+    "level": 1,
+    "name": {
+      "local": "St. Patrick",
+      "en": "Saint Patrick",
+      "slug": "saint-patrick-gd07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.2",
+    "lon": "-61.633"
+  },
+  "metadata": {},
+  "source": {}
+}

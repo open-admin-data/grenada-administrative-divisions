@@ -1,0 +1,45 @@
+{
+  "id": "GD04L040",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Brizan",
+    "en": "Brizan",
+    "slug": "brizan-gd04l040"
+  },
+  "code": {
+    "id": "GD04L040",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD04",
+    "level": 1,
+    "name": {
+      "local": "St. George",
+      "en": "Saint George",
+      "slug": "saint-george-gd04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.1",
+    "lon": "-61.75"
+  },
+  "metadata": {},
+  "source": {}
+}

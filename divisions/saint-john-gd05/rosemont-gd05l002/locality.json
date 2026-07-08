@@ -1,0 +1,45 @@
+{
+  "id": "GD05L002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Rosemont",
+    "en": "Rosemont",
+    "slug": "rosemont-gd05l002"
+  },
+  "code": {
+    "id": "GD05L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD05",
+    "level": 1,
+    "name": {
+      "local": "St. John",
+      "en": "Saint John",
+      "slug": "saint-john-gd05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.15",
+    "lon": "-61.7"
+  },
+  "metadata": {},
+  "source": {}
+}

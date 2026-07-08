@@ -1,0 +1,45 @@
+{
+  "id": "GD02L032",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Paraclete",
+    "en": "Paraclete",
+    "slug": "paraclete-gd02l032"
+  },
+  "code": {
+    "id": "GD02L032",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD02",
+    "level": 1,
+    "name": {
+      "local": "St. Andrew",
+      "en": "Saint Andrew",
+      "slug": "saint-andrew-gd02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD02",
+      "level": 1,
+      "name": {
+        "local": "St. Andrew",
+        "en": "Saint Andrew",
+        "slug": "saint-andrew-gd02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.15",
+    "lon": "-61.633"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GD04L069",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Laura",
+    "en": "Laura",
+    "slug": "laura-gd04l069"
+  },
+  "code": {
+    "id": "GD04L069",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD04",
+    "level": 1,
+    "name": {
+      "local": "St. George",
+      "en": "Saint George",
+      "slug": "saint-george-gd04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.033",
+    "lon": "-61.7"
+  },
+  "metadata": {},
+  "source": {}
+}

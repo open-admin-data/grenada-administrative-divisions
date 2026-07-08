@@ -1,0 +1,1667 @@
+[
+  {
+    "id": "GD03L028",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Apres Tout",
+      "en": "Apres Tout",
+      "slug": "apres-tout-gd03l028"
+    },
+    "code": {
+      "id": "GD03L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L030",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Baillies Bacolet",
+      "en": "Baillies Bacolet",
+      "slug": "baillies-bacolet-gd03l030"
+    },
+    "code": {
+      "id": "GD03L030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Belle Isle",
+      "en": "Belle Isle",
+      "slug": "belle-isle-gd03l013"
+    },
+    "code": {
+      "id": "GD03L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.034",
+      "lon": "-61.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bellevue",
+      "en": "Bellevue",
+      "slug": "bellevue-gd03l017"
+    },
+    "code": {
+      "id": "GD03L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Champs Fleurs",
+      "en": "Champs Fleurs",
+      "slug": "champs-fleurs-gd03l014"
+    },
+    "code": {
+      "id": "GD03L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Charlotte Vale",
+      "en": "Charlotte Vale",
+      "slug": "charlotte-vale-gd03l008"
+    },
+    "code": {
+      "id": "GD03L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L024",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Content",
+      "en": "Content",
+      "slug": "content-gd03l024"
+    },
+    "code": {
+      "id": "GD03L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L037",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Corinth",
+      "en": "Corinth",
+      "slug": "corinth-gd03l037"
+    },
+    "code": {
+      "id": "GD03L037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L036",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Crochu",
+      "en": "Crochu",
+      "slug": "crochu-gd03l036"
+    },
+    "code": {
+      "id": "GD03L036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L033",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fairfield",
+      "en": "Fairfield",
+      "slug": "fairfield-gd03l033"
+    },
+    "code": {
+      "id": "GD03L033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L025",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Felix Park",
+      "en": "Felix Park",
+      "slug": "felix-park-gd03l025"
+    },
+    "code": {
+      "id": "GD03L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fort Jeudy",
+      "en": "Fort Jeudy",
+      "slug": "fort-jeudy-gd03l011"
+    },
+    "code": {
+      "id": "GD03L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12",
+      "lon": "-61.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L026",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lower La Tante",
+      "en": "Lower La Tante",
+      "slug": "lower-la-tante-gd03l026"
+    },
+    "code": {
+      "id": "GD03L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.053",
+      "lon": "-61.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L027",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mahot",
+      "en": "Mahot",
+      "slug": "mahot-gd03l027"
+    },
+    "code": {
+      "id": "GD03L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.059",
+      "lon": "-61.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L035",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mamma Cannes",
+      "en": "Mamma Cannes",
+      "slug": "mamma-cannes-gd03l035"
+    },
+    "code": {
+      "id": "GD03L035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.065",
+      "lon": "-61.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Marlmount",
+      "en": "Marlmount",
+      "slug": "marlmount-gd03l015"
+    },
+    "code": {
+      "id": "GD03L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L032",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Maulti",
+      "en": "Maulti",
+      "slug": "maulti-gd03l032"
+    },
+    "code": {
+      "id": "GD03L032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mon Repos",
+      "en": "Mon Repos",
+      "slug": "mon-repos-gd03l012"
+    },
+    "code": {
+      "id": "GD03L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Agnes",
+      "en": "Mount Agnes",
+      "slug": "mount-agnes-gd03l007"
+    },
+    "code": {
+      "id": "GD03L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Cassell Land Settlement",
+      "en": "Mount Cassell Land Settlement",
+      "slug": "mount-cassell-land-settlement-gd03l016"
+    },
+    "code": {
+      "id": "GD03L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L021",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount William",
+      "en": "Mount William",
+      "slug": "mount-william-gd03l021"
+    },
+    "code": {
+      "id": "GD03L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Munich",
+      "en": "Munich",
+      "slug": "munich-gd03l020"
+    },
+    "code": {
+      "id": "GD03L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.082",
+      "lon": "-61.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Petit Bacaye",
+      "en": "Petit Bacaye",
+      "slug": "petit-bacaye-gd03l009"
+    },
+    "code": {
+      "id": "GD03L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.018",
+      "lon": "-61.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Petit Etang",
+      "en": "Petit Etang",
+      "slug": "petit-etang-gd03l004"
+    },
+    "code": {
+      "id": "GD03L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L029",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pierre Marie",
+      "en": "Pierre Marie",
+      "slug": "pierre-marie-gd03l029"
+    },
+    "code": {
+      "id": "GD03L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L034",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pomme Rose",
+      "en": "Pomme Rose",
+      "slug": "pomme-rose-gd03l034"
+    },
+    "code": {
+      "id": "GD03L034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L031",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Providence",
+      "en": "Providence",
+      "slug": "providence-gd03l031"
+    },
+    "code": {
+      "id": "GD03L031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Retreat",
+      "en": "Retreat",
+      "slug": "retreat-gd03l019"
+    },
+    "code": {
+      "id": "GD03L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saint Davidâ€™s",
+      "en": "Saint Davidâ€™s",
+      "slug": "saint-david-s-gd03l001"
+    },
+    "code": {
+      "id": "GD03L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L023",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Syracuse",
+      "en": "Syracuse",
+      "slug": "syracuse-gd03l023"
+    },
+    "code": {
+      "id": "GD03L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Terre Cannes",
+      "en": "Terre Cannes",
+      "slug": "terre-cannes-gd03l010"
+    },
+    "code": {
+      "id": "GD03L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Thebaide",
+      "en": "Thebaide",
+      "slug": "thebaide-gd03l002"
+    },
+    "code": {
+      "id": "GD03L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L022",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Upper La Tante",
+      "en": "Upper La Tante",
+      "slug": "upper-la-tante-gd03l022"
+    },
+    "code": {
+      "id": "GD03L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vincennes",
+      "en": "Vincennes",
+      "slug": "vincennes-gd03l018"
+    },
+    "code": {
+      "id": "GD03L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.058",
+      "lon": "-61.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vineyard",
+      "en": "Vineyard",
+      "slug": "vineyard-gd03l005"
+    },
+    "code": {
+      "id": "GD03L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Windsor Castle",
+      "en": "Windsor Castle",
+      "slug": "windsor-castle-gd03l003"
+    },
+    "code": {
+      "id": "GD03L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD03L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Windsor Forest",
+      "en": "Windsor Forest",
+      "slug": "windsor-forest-gd03l006"
+    },
+    "code": {
+      "id": "GD03L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD03",
+        "level": 1,
+        "name": {
+          "local": "St. David",
+          "en": "Saint David",
+          "slug": "saint-david-gd03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.683"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

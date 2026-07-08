@@ -1,0 +1,4187 @@
+[
+  {
+    "id": "GD04L068",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Amber Belair",
+      "en": "Amber Belair",
+      "slug": "amber-belair-gd04l068"
+    },
+    "code": {
+      "id": "GD04L068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.994",
+      "lon": "-61.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L041",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bamboo",
+      "en": "Bamboo",
+      "slug": "bamboo-gd04l041"
+    },
+    "code": {
+      "id": "GD04L041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.009",
+      "lon": "-61.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L031",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Barrow",
+      "en": "Barrow",
+      "slug": "barrow-gd04l031"
+    },
+    "code": {
+      "id": "GD04L031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L025",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beaton",
+      "en": "Beaton",
+      "slug": "beaton-gd04l025"
+    },
+    "code": {
+      "id": "GD04L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L023",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beaulieu",
+      "en": "Beaulieu",
+      "slug": "beaulieu-gd04l023"
+    },
+    "code": {
+      "id": "GD04L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L073",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Becke Moui",
+      "en": "Becke Moui",
+      "slug": "becke-moui-gd04l073"
+    },
+    "code": {
+      "id": "GD04L073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-61.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L033",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Belle Plain",
+      "en": "Belle Plain",
+      "slug": "belle-plain-gd04l033"
+    },
+    "code": {
+      "id": "GD04L033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L075",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Belmont",
+      "en": "Belmont",
+      "slug": "belmont-gd04l075"
+    },
+    "code": {
+      "id": "GD04L075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.041",
+      "lon": "-61.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L063",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Blow Hole",
+      "en": "Blow Hole",
+      "slug": "blow-hole-gd04l063"
+    },
+    "code": {
+      "id": "GD04L063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.997",
+      "lon": "-61.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boca",
+      "en": "Boca",
+      "slug": "boca-gd04l016"
+    },
+    "code": {
+      "id": "GD04L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bois de Gannes",
+      "en": "Bois de Gannes",
+      "slug": "bois-de-gannes-gd04l009"
+    },
+    "code": {
+      "id": "GD04L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L040",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brizan",
+      "en": "Brizan",
+      "slug": "brizan-gd04l040"
+    },
+    "code": {
+      "id": "GD04L040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.1",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L044",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cafe",
+      "en": "Cafe",
+      "slug": "cafe-gd04l044"
+    },
+    "code": {
+      "id": "GD04L044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Calivigny",
+      "en": "Calivigny",
+      "slug": "calivigny-gd04l003"
+    },
+    "code": {
+      "id": "GD04L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Calliste",
+      "en": "Calliste",
+      "slug": "calliste-gd04l019"
+    },
+    "code": {
+      "id": "GD04L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.01",
+      "lon": "-61.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L071",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Clarkes Court",
+      "en": "Clarkes Court",
+      "slug": "clarkes-court-gd04l071"
+    },
+    "code": {
+      "id": "GD04L071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Confer",
+      "en": "Confer",
+      "slug": "confer-gd04l015"
+    },
+    "code": {
+      "id": "GD04L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L085",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Constantine",
+      "en": "Constantine",
+      "slug": "constantine-gd04l085"
+    },
+    "code": {
+      "id": "GD04L085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L026",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Corbeau Town",
+      "en": "Corbeau Town",
+      "slug": "corbeau-town-gd04l026"
+    },
+    "code": {
+      "id": "GD04L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L052",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "D'Arbeau",
+      "en": "D'Arbeau",
+      "slug": "d-arbeau-gd04l052"
+    },
+    "code": {
+      "id": "GD04L052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Egmont",
+      "en": "Egmont",
+      "slug": "egmont-gd04l008"
+    },
+    "code": {
+      "id": "GD04L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.006",
+      "lon": "-61.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L039",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Epping Forest",
+      "en": "Epping Forest",
+      "slug": "epping-forest-gd04l039"
+    },
+    "code": {
+      "id": "GD04L039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L043",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Falege",
+      "en": "Falege",
+      "slug": "falege-gd04l043"
+    },
+    "code": {
+      "id": "GD04L043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L048",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fontenoy",
+      "en": "Fontenoy",
+      "slug": "fontenoy-gd04l048"
+    },
+    "code": {
+      "id": "GD04L048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Frequente",
+      "en": "Frequente",
+      "slug": "frequente-gd04l020"
+    },
+    "code": {
+      "id": "GD04L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.014",
+      "lon": "-61.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L066",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Golflands",
+      "en": "Golflands",
+      "slug": "golflands-gd04l066"
+    },
+    "code": {
+      "id": "GD04L066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Grand Anse",
+      "en": "Grand Anse",
+      "slug": "grand-anse-gd04l018"
+    },
+    "code": {
+      "id": "GD04L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L083",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Grand Mal",
+      "en": "Grand Mal",
+      "slug": "grand-mal-gd04l083"
+    },
+    "code": {
+      "id": "GD04L083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L062",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Granton",
+      "en": "Granton",
+      "slug": "granton-gd04l062"
+    },
+    "code": {
+      "id": "GD04L062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.083",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L024",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gretna Green",
+      "en": "Gretna Green",
+      "slug": "gretna-green-gd04l024"
+    },
+    "code": {
+      "id": "GD04L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L028",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gwa Kay",
+      "en": "Gwa Kay",
+      "slug": "gwa-kay-gd04l028"
+    },
+    "code": {
+      "id": "GD04L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-61.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L051",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Happy Hill",
+      "en": "Happy Hill",
+      "slug": "happy-hill-gd04l051"
+    },
+    "code": {
+      "id": "GD04L051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.088",
+      "lon": "-61.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hermitage",
+      "en": "Hermitage",
+      "slug": "hermitage-gd04l012"
+    },
+    "code": {
+      "id": "GD04L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L072",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Horne",
+      "en": "Horne",
+      "slug": "horne-gd04l072"
+    },
+    "code": {
+      "id": "GD04L072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.004",
+      "lon": "-61.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L086",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hyde Park",
+      "en": "Hyde Park",
+      "slug": "hyde-park-gd04l086"
+    },
+    "code": {
+      "id": "GD04L086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L084",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ka-fe Beau",
+      "en": "Ka-fe Beau",
+      "slug": "ka-fe-beau-gd04l084"
+    },
+    "code": {
+      "id": "GD04L084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L053",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "La Femme",
+      "en": "La Femme",
+      "slug": "la-femme-gd04l053"
+    },
+    "code": {
+      "id": "GD04L053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L061",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "La Mode",
+      "en": "La Mode",
+      "slug": "la-mode-gd04l061"
+    },
+    "code": {
+      "id": "GD04L061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L054",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laborie",
+      "en": "Laborie",
+      "slug": "laborie-gd04l054"
+    },
+    "code": {
+      "id": "GD04L054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.044",
+      "lon": "-61.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lance aux Epines",
+      "en": "Lance aux Epines",
+      "slug": "lance-aux-epines-gd04l017"
+    },
+    "code": {
+      "id": "GD04L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.998",
+      "lon": "-61.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L069",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Laura",
+      "en": "Laura",
+      "slug": "laura-gd04l069"
+    },
+    "code": {
+      "id": "GD04L069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L047",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lower Woburn",
+      "en": "Lower Woburn",
+      "slug": "lower-woburn-gd04l047"
+    },
+    "code": {
+      "id": "GD04L047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Magazine Beach",
+      "en": "Magazine Beach",
+      "slug": "magazine-beach-gd04l014"
+    },
+    "code": {
+      "id": "GD04L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.012",
+      "lon": "-61.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L077",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mango",
+      "en": "Mango",
+      "slug": "mango-gd04l077"
+    },
+    "code": {
+      "id": "GD04L077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.083",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L035",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mardigras",
+      "en": "Mardigras",
+      "slug": "mardigras-gd04l035"
+    },
+    "code": {
+      "id": "GD04L035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L065",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mardigras",
+      "en": "Mardigras",
+      "slug": "mardigras-gd04l065"
+    },
+    "code": {
+      "id": "GD04L065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L091",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Marian",
+      "en": "Marian",
+      "slug": "marian-gd04l091"
+    },
+    "code": {
+      "id": "GD04L091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L049",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Moliniere",
+      "en": "Moliniere",
+      "slug": "moliniere-gd04l049"
+    },
+    "code": {
+      "id": "GD04L049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.083",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mont Tout",
+      "en": "Mont Tout",
+      "slug": "mont-tout-gd04l011"
+    },
+    "code": {
+      "id": "GD04L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L067",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Morne Docteur",
+      "en": "Morne Docteur",
+      "slug": "morne-docteur-gd04l067"
+    },
+    "code": {
+      "id": "GD04L067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.1",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L092",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Morne Jaloux",
+      "en": "Morne Jaloux",
+      "slug": "morne-jaloux-gd04l092"
+    },
+    "code": {
+      "id": "GD04L092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L089",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Morne Jaloux Ridge",
+      "en": "Morne Jaloux Ridge",
+      "slug": "morne-jaloux-ridge-gd04l089"
+    },
+    "code": {
+      "id": "GD04L089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L057",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Morne Rouge",
+      "en": "Morne Rouge",
+      "slug": "morne-rouge-gd04l057"
+    },
+    "code": {
+      "id": "GD04L057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-61.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L082",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Morne Tranquille",
+      "en": "Morne Tranquille",
+      "slug": "morne-tranquille-gd04l082"
+    },
+    "code": {
+      "id": "GD04L082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L079",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Airy",
+      "en": "Mount Airy",
+      "slug": "mount-airy-gd04l079"
+    },
+    "code": {
+      "id": "GD04L079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L078",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Gay",
+      "en": "Mount Gay",
+      "slug": "mount-gay-gd04l078"
+    },
+    "code": {
+      "id": "GD04L078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L032",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Helicon",
+      "en": "Mount Helicon",
+      "slug": "mount-helicon-gd04l032"
+    },
+    "code": {
+      "id": "GD04L032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L090",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Moritz",
+      "en": "Mount Moritz",
+      "slug": "mount-moritz-gd04l090"
+    },
+    "code": {
+      "id": "GD04L090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.082",
+      "lon": "-61.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Moritz Land Settlement",
+      "en": "Mount Moritz Land Settlement",
+      "slug": "mount-moritz-land-settlement-gd04l001"
+    },
+    "code": {
+      "id": "GD04L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.088",
+      "lon": "-61.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L034",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Pleasant",
+      "en": "Mount Pleasant",
+      "slug": "mount-pleasant-gd04l034"
+    },
+    "code": {
+      "id": "GD04L034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Rose",
+      "en": "Mount Rose",
+      "slug": "mount-rose-gd04l010"
+    },
+    "code": {
+      "id": "GD04L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L074",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Royal",
+      "en": "Mount Royal",
+      "slug": "mount-royal-gd04l074"
+    },
+    "code": {
+      "id": "GD04L074",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L050",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Weldale",
+      "en": "Mount Weldale",
+      "slug": "mount-weldale-gd04l050"
+    },
+    "code": {
+      "id": "GD04L050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L045",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "New Hampshire",
+      "en": "New Hampshire",
+      "slug": "new-hampshire-gd04l045"
+    },
+    "code": {
+      "id": "GD04L045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.083",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L087",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Paddock",
+      "en": "Paddock",
+      "slug": "paddock-gd04l087"
+    },
+    "code": {
+      "id": "GD04L087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L030",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Parade",
+      "en": "Parade",
+      "slug": "parade-gd04l030"
+    },
+    "code": {
+      "id": "GD04L030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L058",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Perdmontemps",
+      "en": "Perdmontemps",
+      "slug": "perdmontemps-gd04l058"
+    },
+    "code": {
+      "id": "GD04L058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L064",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Petit Bouc",
+      "en": "Petit Bouc",
+      "slug": "petit-bouc-gd04l064"
+    },
+    "code": {
+      "id": "GD04L064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L056",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Petit Calivigny",
+      "en": "Petit Calivigny",
+      "slug": "petit-calivigny-gd04l056"
+    },
+    "code": {
+      "id": "GD04L056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.006",
+      "lon": "-61.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Radix",
+      "en": "Radix",
+      "slug": "radix-gd04l005"
+    },
+    "code": {
+      "id": "GD04L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L076",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ravine",
+      "en": "Ravine",
+      "slug": "ravine-gd04l076"
+    },
+    "code": {
+      "id": "GD04L076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L059",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Retreat",
+      "en": "Retreat",
+      "slug": "retreat-gd04l059"
+    },
+    "code": {
+      "id": "GD04L059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Richmond",
+      "en": "Richmond",
+      "slug": "richmond-gd04l013"
+    },
+    "code": {
+      "id": "GD04L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.1",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L021",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Richmond Hill",
+      "en": "Richmond Hill",
+      "slug": "richmond-hill-gd04l021"
+    },
+    "code": {
+      "id": "GD04L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L046",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ruth Howard",
+      "en": "Ruth Howard",
+      "slug": "ruth-howard-gd04l046"
+    },
+    "code": {
+      "id": "GD04L046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L022",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saint Paul's",
+      "en": "Saint Paul's",
+      "slug": "saint-paul-s-gd04l022"
+    },
+    "code": {
+      "id": "GD04L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L070",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saint Paul's",
+      "en": "Saint Paul's",
+      "slug": "saint-paul-s-gd04l070"
+    },
+    "code": {
+      "id": "GD04L070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sans Souci",
+      "en": "Sans Souci",
+      "slug": "sans-souci-gd04l006"
+    },
+    "code": {
+      "id": "GD04L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L042",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Snug Corner",
+      "en": "Snug Corner",
+      "slug": "snug-corner-gd04l042"
+    },
+    "code": {
+      "id": "GD04L042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.067",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L055",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Springs",
+      "en": "Springs",
+      "slug": "springs-gd04l055"
+    },
+    "code": {
+      "id": "GD04L055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tanteen",
+      "en": "Tanteen",
+      "slug": "tanteen-gd04l007"
+    },
+    "code": {
+      "id": "GD04L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L081",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tempe",
+      "en": "Tempe",
+      "slug": "tempe-gd04l081"
+    },
+    "code": {
+      "id": "GD04L081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L027",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Bocas",
+      "en": "The Bocas",
+      "slug": "the-bocas-gd04l027"
+    },
+    "code": {
+      "id": "GD04L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.033",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L029",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Cliff",
+      "en": "The Cliff",
+      "slug": "the-cliff-gd04l029"
+    },
+    "code": {
+      "id": "GD04L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L060",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Lime",
+      "en": "The Lime",
+      "slug": "the-lime-gd04l060"
+    },
+    "code": {
+      "id": "GD04L060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.017",
+      "lon": "-61.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L093",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Park",
+      "en": "The Park",
+      "slug": "the-park-gd04l093"
+    },
+    "code": {
+      "id": "GD04L093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L088",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "True Blue",
+      "en": "True Blue",
+      "slug": "true-blue-gd04l088"
+    },
+    "code": {
+      "id": "GD04L088",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.004",
+      "lon": "-61.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vendome",
+      "en": "Vendome",
+      "slug": "vendome-gd04l004"
+    },
+    "code": {
+      "id": "GD04L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.086",
+      "lon": "-61.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Westerhall Land Settlement",
+      "en": "Westerhall Land Settlement",
+      "slug": "westerhall-land-settlement-gd04l002"
+    },
+    "code": {
+      "id": "GD04L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "-61.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L080",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Westerhall Point",
+      "en": "Westerhall Point",
+      "slug": "westerhall-point-gd04l080"
+    },
+    "code": {
+      "id": "GD04L080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.01",
+      "lon": "-61.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L037",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "White Gun",
+      "en": "White Gun",
+      "slug": "white-gun-gd04l037"
+    },
+    "code": {
+      "id": "GD04L037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.05",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L036",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Willis",
+      "en": "Willis",
+      "slug": "willis-gd04l036"
+    },
+    "code": {
+      "id": "GD04L036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.083",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD04L038",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Woburn",
+      "en": "Woburn",
+      "slug": "woburn-gd04l038"
+    },
+    "code": {
+      "id": "GD04L038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD04",
+        "level": 1,
+        "name": {
+          "local": "St. George",
+          "en": "Saint George",
+          "slug": "saint-george-gd04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.021",
+      "lon": "-61.734"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

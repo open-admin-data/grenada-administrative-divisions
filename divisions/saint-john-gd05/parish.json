@@ -1,0 +1,33 @@
+{
+  "id": "GD05",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "St. John",
+    "en": "Saint John",
+    "slug": "saint-john-gd05"
+  },
+  "code": {
+    "id": "GD05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.145",
+    "lon": "-61.712"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gd/parishes/saint-john-gd05/",
+    "api": "https://openadmindata.org/api/gd/"
+  }
+}

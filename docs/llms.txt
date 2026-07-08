@@ -1,0 +1,66 @@
+# Grenada Administrative Divisions
+
+> Open dataset of Grenada's administrative hierarchy:
+> 8 parishs, 279 localitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total parishs: 8
+- Total localitys: 279
+- Coordinates: included (all levels)
+- Last updated: 2026-07-08
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All parishs (JSON)](https://raw.githubusercontent.com/open-admin-data/grenada-administrative-divisions/main/data/all-parish.json)
+- [All localitys (JSON)](https://raw.githubusercontent.com/open-admin-data/grenada-administrative-divisions/main/data/all-locality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/grenada-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/grenada-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/grenada-administrative-divisions/main/data/schema.json)
+
+## Browse by Parish
+
+- [Carriacou](https://github.com/open-admin-data/grenada-administrative-divisions/tree/main/divisions/carriacou-gd01/) — 17 localitys
+- [Saint Andrew](https://github.com/open-admin-data/grenada-administrative-divisions/tree/main/divisions/saint-andrew-gd02/) — 68 localitys
+- [Saint David](https://github.com/open-admin-data/grenada-administrative-divisions/tree/main/divisions/saint-david-gd03/) — 37 localitys
+- [Saint George](https://github.com/open-admin-data/grenada-administrative-divisions/tree/main/divisions/saint-george-gd04/) — 93 localitys
+- [Saint John](https://github.com/open-admin-data/grenada-administrative-divisions/tree/main/divisions/saint-john-gd05/) — 20 localitys
+- [Saint Mark](https://github.com/open-admin-data/grenada-administrative-divisions/tree/main/divisions/saint-mark-gd06/) — 12 localitys
+- [Saint Patrick](https://github.com/open-admin-data/grenada-administrative-divisions/tree/main/divisions/saint-patrick-gd07/) — 30 localitys
+- [Petite Martinique](https://github.com/open-admin-data/grenada-administrative-divisions/tree/main/divisions/petite-martinique-gd08/) — 2 localitys
+
+## Per-Parish Full Data
+
+- [Carriacou](https://raw.githubusercontent.com/open-admin-data/grenada-administrative-divisions/main/docs/llms-full/carriacou-gd01.txt)
+- [Saint Andrew](https://raw.githubusercontent.com/open-admin-data/grenada-administrative-divisions/main/docs/llms-full/saint-andrew-gd02.txt)
+- [Saint David](https://raw.githubusercontent.com/open-admin-data/grenada-administrative-divisions/main/docs/llms-full/saint-david-gd03.txt)
+- [Saint George](https://raw.githubusercontent.com/open-admin-data/grenada-administrative-divisions/main/docs/llms-full/saint-george-gd04.txt)
+- [Saint John](https://raw.githubusercontent.com/open-admin-data/grenada-administrative-divisions/main/docs/llms-full/saint-john-gd05.txt)
+- [Saint Mark](https://raw.githubusercontent.com/open-admin-data/grenada-administrative-divisions/main/docs/llms-full/saint-mark-gd06.txt)
+- [Saint Patrick](https://raw.githubusercontent.com/open-admin-data/grenada-administrative-divisions/main/docs/llms-full/saint-patrick-gd07.txt)
+- [Petite Martinique](https://raw.githubusercontent.com/open-admin-data/grenada-administrative-divisions/main/docs/llms-full/petite-martinique-gd08.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (parish), 2 (locality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Grenada Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/grenada-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

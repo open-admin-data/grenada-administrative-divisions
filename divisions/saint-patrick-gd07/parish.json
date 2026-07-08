@@ -1,0 +1,33 @@
+{
+  "id": "GD07",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "St. Patrick",
+    "en": "Saint Patrick",
+    "slug": "saint-patrick-gd07"
+  },
+  "code": {
+    "id": "GD07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 30
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.2",
+    "lon": "-61.638"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gd/parishes/saint-patrick-gd07/",
+    "api": "https://openadmindata.org/api/gd/"
+  }
+}

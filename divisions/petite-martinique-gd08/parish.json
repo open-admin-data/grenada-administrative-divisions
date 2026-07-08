@@ -1,0 +1,33 @@
+{
+  "id": "GD08",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Petite Martinique",
+    "en": "Petite Martinique",
+    "slug": "petite-martinique-gd08"
+  },
+  "code": {
+    "id": "GD08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.519",
+    "lon": "-61.386"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gd/parishes/petite-martinique-gd08/",
+    "api": "https://openadmindata.org/api/gd/"
+  }
+}

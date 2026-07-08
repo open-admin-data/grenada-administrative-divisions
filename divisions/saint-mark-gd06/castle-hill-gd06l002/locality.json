@@ -1,0 +1,45 @@
+{
+  "id": "GD06L002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Castle Hill",
+    "en": "Castle Hill",
+    "slug": "castle-hill-gd06l002"
+  },
+  "code": {
+    "id": "GD06L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD06",
+    "level": 1,
+    "name": {
+      "local": "St. Mark",
+      "en": "Saint Mark",
+      "slug": "saint-mark-gd06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD06",
+      "level": 1,
+      "name": {
+        "local": "St. Mark",
+        "en": "Saint Mark",
+        "slug": "saint-mark-gd06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.183",
+    "lon": "-61.667"
+  },
+  "metadata": {},
+  "source": {}
+}

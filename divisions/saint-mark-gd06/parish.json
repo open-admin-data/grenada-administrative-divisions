@@ -1,0 +1,33 @@
+{
+  "id": "GD06",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "St. Mark",
+    "en": "Saint Mark",
+    "slug": "saint-mark-gd06"
+  },
+  "code": {
+    "id": "GD06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.189",
+    "lon": "-61.695"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gd/parishes/saint-mark-gd06/",
+    "api": "https://openadmindata.org/api/gd/"
+  }
+}

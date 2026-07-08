@@ -1,0 +1,45 @@
+{
+  "id": "GD04L051",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Happy Hill",
+    "en": "Happy Hill",
+    "slug": "happy-hill-gd04l051"
+  },
+  "code": {
+    "id": "GD04L051",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD04",
+    "level": 1,
+    "name": {
+      "local": "St. George",
+      "en": "Saint George",
+      "slug": "saint-george-gd04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.088",
+    "lon": "-61.757"
+  },
+  "metadata": {},
+  "source": {}
+}

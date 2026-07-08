@@ -1,0 +1,902 @@
+[
+  {
+    "id": "GD05L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Belvidere",
+      "en": "Belvidere",
+      "slug": "belvidere-gd05l003"
+    },
+    "code": {
+      "id": "GD05L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.133",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chadeau",
+      "en": "Chadeau",
+      "slug": "chadeau-gd05l004"
+    },
+    "code": {
+      "id": "GD05L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.133",
+      "lon": "-61.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L019",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Clozier",
+      "en": "Clozier",
+      "slug": "clozier-gd05l019"
+    },
+    "code": {
+      "id": "GD05L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.143",
+      "lon": "-61.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Concord",
+      "en": "Concord",
+      "slug": "concord-gd05l013"
+    },
+    "code": {
+      "id": "GD05L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.117",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dothan",
+      "en": "Dothan",
+      "slug": "dothan-gd05l015"
+    },
+    "code": {
+      "id": "GD05L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.133",
+      "lon": "-61.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Florida",
+      "en": "Florida",
+      "slug": "florida-gd05l010"
+    },
+    "code": {
+      "id": "GD05L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.161",
+      "lon": "-61.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gouyave",
+      "en": "Gouyave",
+      "slug": "gouyave-gd05l001"
+    },
+    "code": {
+      "id": "GD05L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.165",
+      "lon": "-61.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Grand Roy",
+      "en": "Grand Roy",
+      "slug": "grand-roy-gd05l008"
+    },
+    "code": {
+      "id": "GD05L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.132",
+      "lon": "-61.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mabouya",
+      "en": "Mabouya",
+      "slug": "mabouya-gd05l018"
+    },
+    "code": {
+      "id": "GD05L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.148",
+      "lon": "-61.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Maran",
+      "en": "Maran",
+      "slug": "maran-gd05l009"
+    },
+    "code": {
+      "id": "GD05L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.175",
+      "lon": "-61.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Marigot",
+      "en": "Marigot",
+      "slug": "marigot-gd05l011"
+    },
+    "code": {
+      "id": "GD05L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.123",
+      "lon": "-61.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L020",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mon Plaisir",
+      "en": "Mon Plaisir",
+      "slug": "mon-plaisir-gd05l020"
+    },
+    "code": {
+      "id": "GD05L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.117",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Morne Jaloux",
+      "en": "Morne Jaloux",
+      "slug": "morne-jaloux-gd05l005"
+    },
+    "code": {
+      "id": "GD05L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.133",
+      "lon": "-61.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Cenis",
+      "en": "Mount Cenis",
+      "slug": "mount-cenis-gd05l012"
+    },
+    "code": {
+      "id": "GD05L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.167",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Nesbit",
+      "en": "Mount Nesbit",
+      "slug": "mount-nesbit-gd05l017"
+    },
+    "code": {
+      "id": "GD05L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.133",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Nesbit Land Settlement",
+      "en": "Mount Nesbit Land Settlement",
+      "slug": "mount-nesbit-land-settlement-gd05l007"
+    },
+    "code": {
+      "id": "GD05L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.133",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Paradise",
+      "en": "Paradise",
+      "slug": "paradise-gd05l016"
+    },
+    "code": {
+      "id": "GD05L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.133",
+      "lon": "-61.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rosemont",
+      "en": "Rosemont",
+      "slug": "rosemont-gd05l002"
+    },
+    "code": {
+      "id": "GD05L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.15",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saint Mary",
+      "en": "Saint Mary",
+      "slug": "saint-mary-gd05l014"
+    },
+    "code": {
+      "id": "GD05L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.15",
+      "lon": "-61.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD05L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "The Lance",
+      "en": "The Lance",
+      "slug": "the-lance-gd05l006"
+    },
+    "code": {
+      "id": "GD05L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD05",
+      "level": 1,
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD05",
+        "level": 1,
+        "name": {
+          "local": "St. John",
+          "en": "Saint John",
+          "slug": "saint-john-gd05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.167",
+      "lon": "-61.717"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

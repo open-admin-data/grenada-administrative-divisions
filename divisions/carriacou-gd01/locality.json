@@ -1,0 +1,767 @@
+[
+  {
+    "id": "GD01L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Argyle",
+      "en": "Argyle",
+      "slug": "argyle-gd01l001"
+    },
+    "code": {
+      "id": "GD01L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.45",
+      "lon": "-61.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Belair",
+      "en": "Belair",
+      "slug": "belair-gd01l016"
+    },
+    "code": {
+      "id": "GD01L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.492",
+      "lon": "-61.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Belvedere",
+      "en": "Belvedere",
+      "slug": "belvedere-gd01l006"
+    },
+    "code": {
+      "id": "GD01L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.5",
+      "lon": "-61.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bogles",
+      "en": "Bogles",
+      "slug": "bogles-gd01l004"
+    },
+    "code": {
+      "id": "GD01L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.5",
+      "lon": "-61.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Citern Village",
+      "en": "Citern Village",
+      "slug": "citern-village-gd01l017"
+    },
+    "code": {
+      "id": "GD01L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.518",
+      "lon": "-61.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dover",
+      "en": "Dover",
+      "slug": "dover-gd01l003"
+    },
+    "code": {
+      "id": "GD01L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.5",
+      "lon": "-61.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dumfries",
+      "en": "Dumfries",
+      "slug": "dumfries-gd01l005"
+    },
+    "code": {
+      "id": "GD01L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.463",
+      "lon": "-61.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Grand Bay",
+      "en": "Grand Bay",
+      "slug": "grand-bay-gd01l013"
+    },
+    "code": {
+      "id": "GD01L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.474",
+      "lon": "-61.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hermitage",
+      "en": "Hermitage",
+      "slug": "hermitage-gd01l007"
+    },
+    "code": {
+      "id": "GD01L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.452",
+      "lon": "-61.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hillsborough",
+      "en": "Hillsborough",
+      "slug": "hillsborough-gd01l002"
+    },
+    "code": {
+      "id": "GD01L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.483",
+      "lon": "-61.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kendace",
+      "en": "Kendace",
+      "slug": "kendace-gd01l014"
+    },
+    "code": {
+      "id": "GD01L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.515",
+      "lon": "-61.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "L'Appelle",
+      "en": "L'Appelle",
+      "slug": "l-appelle-gd01l012"
+    },
+    "code": {
+      "id": "GD01L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.523",
+      "lon": "-61.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "L'Esterre",
+      "en": "L'Esterre",
+      "slug": "l-esterre-gd01l008"
+    },
+    "code": {
+      "id": "GD01L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.469",
+      "lon": "-61.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lauriston",
+      "en": "Lauriston",
+      "slug": "lauriston-gd01l015"
+    },
+    "code": {
+      "id": "GD01L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.474",
+      "lon": "-61.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Pleasant",
+      "en": "Mount Pleasant",
+      "slug": "mount-pleasant-gd01l009"
+    },
+    "code": {
+      "id": "GD01L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.479",
+      "lon": "-61.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Six Roads",
+      "en": "Six Roads",
+      "slug": "six-roads-gd01l011"
+    },
+    "code": {
+      "id": "GD01L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.468",
+      "lon": "-61.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GD01L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Windward",
+      "en": "Windward",
+      "slug": "windward-gd01l010"
+    },
+    "code": {
+      "id": "GD01L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GD01",
+        "level": 1,
+        "name": {
+          "local": "Carriacou",
+          "en": "Carriacou",
+          "slug": "carriacou-gd01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.512",
+      "lon": "-61.43"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

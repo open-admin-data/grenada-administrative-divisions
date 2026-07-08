@@ -1,0 +1,45 @@
+{
+  "id": "GD04L017",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lance aux Epines",
+    "en": "Lance aux Epines",
+    "slug": "lance-aux-epines-gd04l017"
+  },
+  "code": {
+    "id": "GD04L017",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD04",
+    "level": 1,
+    "name": {
+      "local": "St. George",
+      "en": "Saint George",
+      "slug": "saint-george-gd04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.998",
+    "lon": "-61.756"
+  },
+  "metadata": {},
+  "source": {}
+}

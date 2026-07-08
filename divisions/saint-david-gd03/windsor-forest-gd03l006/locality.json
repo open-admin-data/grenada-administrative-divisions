@@ -1,0 +1,45 @@
+{
+  "id": "GD03L006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Windsor Forest",
+    "en": "Windsor Forest",
+    "slug": "windsor-forest-gd03l006"
+  },
+  "code": {
+    "id": "GD03L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD03",
+    "level": 1,
+    "name": {
+      "local": "St. David",
+      "en": "Saint David",
+      "slug": "saint-david-gd03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.05",
+    "lon": "-61.683"
+  },
+  "metadata": {},
+  "source": {}
+}

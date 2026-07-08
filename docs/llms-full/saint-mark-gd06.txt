@@ -1,0 +1,69 @@
+# Saint Mark — Grenada Administrative Divisions
+
+> 12 localitys
+> Code: GD06
+> Coordinates: 12.189, -61.695
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Bellevue
+
+Code: GD06L004, Coordinates: 12.183, -61.683
+
+
+### Belmont
+
+Code: GD06L010, Coordinates: 12.183, -61.683
+
+
+### Castle Hill
+
+Code: GD06L002, Coordinates: 12.183, -61.667
+
+
+### Diego Piece
+
+Code: GD06L012, Coordinates: 12.2, -61.667
+
+
+### Duquesne
+
+Code: GD06L007, Coordinates: 12.2, -61.667
+
+
+### Industry
+
+Code: GD06L003, Coordinates: 12.217, -61.683
+
+
+### L&#39;Esperance
+
+Code: GD06L009, Coordinates: 12.183, -61.7
+
+
+### Mount Stanhope
+
+Code: GD06L011, Coordinates: 12.183, -61.683
+
+
+### Nonpareil
+
+Code: GD06L008, Coordinates: 12.2, -61.683
+
+
+### Union
+
+Code: GD06L005, Coordinates: 12.2, -61.667
+
+
+### Victoria
+
+Code: GD06L001, Coordinates: 12.19, -61.707
+
+
+### Waltham
+
+Code: GD06L006, Coordinates: 12.2, -61.7
+
+

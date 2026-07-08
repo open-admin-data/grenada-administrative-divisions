@@ -1,0 +1,45 @@
+{
+  "id": "GD02L045",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lower Pearls",
+    "en": "Lower Pearls",
+    "slug": "lower-pearls-gd02l045"
+  },
+  "code": {
+    "id": "GD02L045",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD02",
+    "level": 1,
+    "name": {
+      "local": "St. Andrew",
+      "en": "Saint Andrew",
+      "slug": "saint-andrew-gd02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD02",
+      "level": 1,
+      "name": {
+        "local": "St. Andrew",
+        "en": "Saint Andrew",
+        "slug": "saint-andrew-gd02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.142",
+    "lon": "-61.626"
+  },
+  "metadata": {},
+  "source": {}
+}

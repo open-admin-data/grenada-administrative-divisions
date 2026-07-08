@@ -1,0 +1,45 @@
+{
+  "id": "GD03L031",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Providence",
+    "en": "Providence",
+    "slug": "providence-gd03l031"
+  },
+  "code": {
+    "id": "GD03L031",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD03",
+    "level": 1,
+    "name": {
+      "local": "St. David",
+      "en": "Saint David",
+      "slug": "saint-david-gd03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.05",
+    "lon": "-61.667"
+  },
+  "metadata": {},
+  "source": {}
+}

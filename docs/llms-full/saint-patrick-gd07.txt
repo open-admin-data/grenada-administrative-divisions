@@ -1,0 +1,159 @@
+# Saint Patrick — Grenada Administrative Divisions
+
+> 30 localitys
+> Code: GD07
+> Coordinates: 12.2, -61.638
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Celeste
+
+Code: GD07L009, Coordinates: 12.217, -61.633
+
+
+### Chantimelle
+
+Code: GD07L002, Coordinates: 12.212, -61.662
+
+
+### Conference
+
+Code: GD07L004, Coordinates: 12.15, -61.617
+
+
+### Des Isles
+
+Code: GD07L017, Coordinates: 12.217, -61.667
+
+
+### Elie Hall
+
+Code: GD07L025, Coordinates: 12.2, -61.633
+
+
+### Helvellyn
+
+Code: GD07L006, Coordinates: 12.217, -61.633
+
+
+### L&#39;Etage
+
+Code: GD07L010, Coordinates: 12.183, -61.633
+
+
+### La Fortune
+
+Code: GD07L013, Coordinates: 12.217, -61.633
+
+
+### La Mode
+
+Code: GD07L007, Coordinates: 12.2, -61.633
+
+
+### Levera
+
+Code: GD07L008, Coordinates: 12.217, -61.633
+
+
+### Levera Development
+
+Code: GD07L005, Coordinates: 12.2, -61.617
+
+
+### Lower La Taste
+
+Code: GD07L024, Coordinates: 12.183, -61.617
+
+
+### Marli
+
+Code: GD07L023, Coordinates: 12.217, -61.633
+
+
+### Montreuil
+
+Code: GD07L029, Coordinates: 12.183, -61.633
+
+
+### Morne Fendue
+
+Code: GD07L014, Coordinates: 12.2, -61.633
+
+
+### Mount Alexander
+
+Code: GD07L030, Coordinates: 12.217, -61.65
+
+
+### Mount Craven
+
+Code: GD07L027, Coordinates: 12.217, -61.65
+
+
+### Mount Rich
+
+Code: GD07L012, Coordinates: 12.183, -61.633
+
+
+### Mount Rose
+
+Code: GD07L016, Coordinates: 12.183, -61.617
+
+
+### Mount William
+
+Code: GD07L021, Coordinates: 12.217, -61.667
+
+
+### Panorama
+
+Code: GD07L028, Coordinates: 12.22, -61.65
+
+
+### Prospect
+
+Code: GD07L015, Coordinates: 12.217, -61.667
+
+
+### River Sallee
+
+Code: GD07L019, Coordinates: 12.198, -61.616
+
+
+### Rose Hill
+
+Code: GD07L011, Coordinates: 12.2, -61.617
+
+
+### Sauteurs
+
+Code: GD07L001, Coordinates: 12.217, -61.633
+
+
+### Trevellan
+
+Code: GD07L018, Coordinates: 12.217, -61.633
+
+
+### Tricolar
+
+Code: GD07L020, Coordinates: 12.183, -61.65
+
+
+### Union
+
+Code: GD07L026, Coordinates: 12.2, -61.65
+
+
+### Upper La Taste
+
+Code: GD07L003, Coordinates: 12.183, -61.617
+
+
+### Welcome Hall
+
+Code: GD07L022, Coordinates: 12.2, -61.65
+
+

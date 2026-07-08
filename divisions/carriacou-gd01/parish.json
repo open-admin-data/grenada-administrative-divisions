@@ -1,0 +1,33 @@
+{
+  "id": "GD01",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Carriacou",
+    "en": "Carriacou",
+    "slug": "carriacou-gd01"
+  },
+  "code": {
+    "id": "GD01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.483",
+    "lon": "-61.445"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gd/parishes/carriacou-gd01/",
+    "api": "https://openadmindata.org/api/gd/"
+  }
+}

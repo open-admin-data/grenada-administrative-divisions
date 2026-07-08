@@ -1,0 +1,45 @@
+{
+  "id": "GD02L020",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Pyrenees",
+    "en": "Pyrenees",
+    "slug": "pyrenees-gd02l020"
+  },
+  "code": {
+    "id": "GD02L020",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD02",
+    "level": 1,
+    "name": {
+      "local": "St. Andrew",
+      "en": "Saint Andrew",
+      "slug": "saint-andrew-gd02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD02",
+      "level": 1,
+      "name": {
+        "local": "St. Andrew",
+        "en": "Saint Andrew",
+        "slug": "saint-andrew-gd02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.133",
+    "lon": "-61.667"
+  },
+  "metadata": {},
+  "source": {}
+}

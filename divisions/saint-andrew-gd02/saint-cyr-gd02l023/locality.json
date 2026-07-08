@@ -1,0 +1,45 @@
+{
+  "id": "GD02L023",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Saint Cyr",
+    "en": "Saint Cyr",
+    "slug": "saint-cyr-gd02l023"
+  },
+  "code": {
+    "id": "GD02L023",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD02",
+    "level": 1,
+    "name": {
+      "local": "St. Andrew",
+      "en": "Saint Andrew",
+      "slug": "saint-andrew-gd02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD02",
+      "level": 1,
+      "name": {
+        "local": "St. Andrew",
+        "en": "Saint Andrew",
+        "slug": "saint-andrew-gd02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.117",
+    "lon": "-61.65"
+  },
+  "metadata": {},
+  "source": {}
+}

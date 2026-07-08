@@ -1,0 +1,269 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/gd/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/grenada-administrative-divisions",
+  "data": [
+    {
+      "id": "GD01",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      },
+      "code": {
+        "id": "GD01",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 17
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.483",
+        "lon": "-61.445"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gd/parishes/carriacou-gd01/",
+        "api": "https://openadmindata.org/api/gd/"
+      }
+    },
+    {
+      "id": "GD02",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "St. Andrew",
+        "en": "Saint Andrew",
+        "slug": "saint-andrew-gd02"
+      },
+      "code": {
+        "id": "GD02",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 68
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.116",
+        "lon": "-61.661"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gd/parishes/saint-andrew-gd02/",
+        "api": "https://openadmindata.org/api/gd/"
+      }
+    },
+    {
+      "id": "GD03",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      },
+      "code": {
+        "id": "GD03",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 37
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.043",
+        "lon": "-61.678"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gd/parishes/saint-david-gd03/",
+        "api": "https://openadmindata.org/api/gd/"
+      }
+    },
+    {
+      "id": "GD04",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      },
+      "code": {
+        "id": "GD04",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 93
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.05",
+        "lon": "-61.733"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gd/parishes/saint-george-gd04/",
+        "api": "https://openadmindata.org/api/gd/"
+      }
+    },
+    {
+      "id": "GD05",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "St. John",
+        "en": "Saint John",
+        "slug": "saint-john-gd05"
+      },
+      "code": {
+        "id": "GD05",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 20
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.145",
+        "lon": "-61.712"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gd/parishes/saint-john-gd05/",
+        "api": "https://openadmindata.org/api/gd/"
+      }
+    },
+    {
+      "id": "GD06",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "St. Mark",
+        "en": "Saint Mark",
+        "slug": "saint-mark-gd06"
+      },
+      "code": {
+        "id": "GD06",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 12
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.189",
+        "lon": "-61.695"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gd/parishes/saint-mark-gd06/",
+        "api": "https://openadmindata.org/api/gd/"
+      }
+    },
+    {
+      "id": "GD07",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      },
+      "code": {
+        "id": "GD07",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 30
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.2",
+        "lon": "-61.638"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gd/parishes/saint-patrick-gd07/",
+        "api": "https://openadmindata.org/api/gd/"
+      }
+    },
+    {
+      "id": "GD08",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Petite Martinique",
+        "en": "Petite Martinique",
+        "slug": "petite-martinique-gd08"
+      },
+      "code": {
+        "id": "GD08",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "12.519",
+        "lon": "-61.386"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/gd/parishes/petite-martinique-gd08/",
+        "api": "https://openadmindata.org/api/gd/"
+      }
+    }
+  ]
+}

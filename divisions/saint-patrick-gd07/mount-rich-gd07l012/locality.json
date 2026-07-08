@@ -1,0 +1,45 @@
+{
+  "id": "GD07L012",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Mount Rich",
+    "en": "Mount Rich",
+    "slug": "mount-rich-gd07l012"
+  },
+  "code": {
+    "id": "GD07L012",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD07",
+    "level": 1,
+    "name": {
+      "local": "St. Patrick",
+      "en": "Saint Patrick",
+      "slug": "saint-patrick-gd07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.183",
+    "lon": "-61.633"
+  },
+  "metadata": {},
+  "source": {}
+}

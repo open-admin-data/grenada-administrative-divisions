@@ -1,0 +1,19 @@
+# Petite Martinique — Grenada Administrative Divisions
+
+> 2 localitys
+> Code: GD08
+> Coordinates: 12.519, -61.386
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Meldrum
+
+Code: GD08L001, Coordinates: 12.521, -61.394
+
+
+### Nahoo
+
+Code: GD08L002, Coordinates: 12.515, -61.383
+
+

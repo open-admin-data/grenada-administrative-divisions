@@ -1,0 +1,94 @@
+# Carriacou — Grenada Administrative Divisions
+
+> 17 localitys
+> Code: GD01
+> Coordinates: 12.483, -61.445
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Argyle
+
+Code: GD01L001, Coordinates: 12.45, -61.483
+
+
+### Belair
+
+Code: GD01L016, Coordinates: 12.492, -61.441
+
+
+### Belvedere
+
+Code: GD01L006, Coordinates: 12.5, -61.433
+
+
+### Bogles
+
+Code: GD01L004, Coordinates: 12.5, -61.433
+
+
+### Citern Village
+
+Code: GD01L017, Coordinates: 12.518, -61.391
+
+
+### Dover
+
+Code: GD01L003, Coordinates: 12.5, -61.433
+
+
+### Dumfries
+
+Code: GD01L005, Coordinates: 12.463, -61.457
+
+
+### Grand Bay
+
+Code: GD01L013, Coordinates: 12.474, -61.435
+
+
+### Hermitage
+
+Code: GD01L007, Coordinates: 12.452, -61.489
+
+
+### Hillsborough
+
+Code: GD01L002, Coordinates: 12.483, -61.456
+
+
+### Kendace
+
+Code: GD01L014, Coordinates: 12.515, -61.388
+
+
+### L&#39;Appelle
+
+Code: GD01L012, Coordinates: 12.523, -61.433
+
+
+### L&#39;Esterre
+
+Code: GD01L008, Coordinates: 12.469, -61.484
+
+
+### Lauriston
+
+Code: GD01L015, Coordinates: 12.474, -61.473
+
+
+### Mount Pleasant
+
+Code: GD01L009, Coordinates: 12.479, -61.435
+
+
+### Six Roads
+
+Code: GD01L011, Coordinates: 12.468, -61.461
+
+
+### Windward
+
+Code: GD01L010, Coordinates: 12.512, -61.43
+
+

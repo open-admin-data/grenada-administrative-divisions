@@ -1,0 +1,10 @@
+# Data from Open Admin Data (https://openadmindata.org/gd/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/grenada-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.parish,children_count.locality,zip_codes,geo.lat,geo.lon,source_url
+GD01,1,Parish,Parish,Carriacou,Carriacou,carriacou-gd01,GD01,,,,,,17,,12.483,-61.445,https://openadmindata.org/gd/parishes/carriacou-gd01/
+GD02,1,Parish,Parish,St. Andrew,Saint Andrew,saint-andrew-gd02,GD02,,,,,,68,,12.116,-61.661,https://openadmindata.org/gd/parishes/saint-andrew-gd02/
+GD03,1,Parish,Parish,St. David,Saint David,saint-david-gd03,GD03,,,,,,37,,12.043,-61.678,https://openadmindata.org/gd/parishes/saint-david-gd03/
+GD04,1,Parish,Parish,St. George,Saint George,saint-george-gd04,GD04,,,,,,93,,12.05,-61.733,https://openadmindata.org/gd/parishes/saint-george-gd04/
+GD05,1,Parish,Parish,St. John,Saint John,saint-john-gd05,GD05,,,,,,20,,12.145,-61.712,https://openadmindata.org/gd/parishes/saint-john-gd05/
+GD06,1,Parish,Parish,St. Mark,Saint Mark,saint-mark-gd06,GD06,,,,,,12,,12.189,-61.695,https://openadmindata.org/gd/parishes/saint-mark-gd06/
+GD07,1,Parish,Parish,St. Patrick,Saint Patrick,saint-patrick-gd07,GD07,,,,,,30,,12.2,-61.638,https://openadmindata.org/gd/parishes/saint-patrick-gd07/
+GD08,1,Parish,Parish,Petite Martinique,Petite Martinique,petite-martinique-gd08,GD08,,,,,,2,,12.519,-61.386,https://openadmindata.org/gd/parishes/petite-martinique-gd08/

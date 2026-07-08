@@ -1,0 +1,45 @@
+{
+  "id": "GD03L026",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lower La Tante",
+    "en": "Lower La Tante",
+    "slug": "lower-la-tante-gd03l026"
+  },
+  "code": {
+    "id": "GD03L026",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD03",
+    "level": 1,
+    "name": {
+      "local": "St. David",
+      "en": "Saint David",
+      "slug": "saint-david-gd03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.053",
+    "lon": "-61.646"
+  },
+  "metadata": {},
+  "source": {}
+}

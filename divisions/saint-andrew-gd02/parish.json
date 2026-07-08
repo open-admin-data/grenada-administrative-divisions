@@ -1,0 +1,33 @@
+{
+  "id": "GD02",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "St. Andrew",
+    "en": "Saint Andrew",
+    "slug": "saint-andrew-gd02"
+  },
+  "code": {
+    "id": "GD02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 68
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.116",
+    "lon": "-61.661"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/gd/parishes/saint-andrew-gd02/",
+    "api": "https://openadmindata.org/api/gd/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GD03L030",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Baillies Bacolet",
+    "en": "Baillies Bacolet",
+    "slug": "baillies-bacolet-gd03l030"
+  },
+  "code": {
+    "id": "GD03L030",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD03",
+    "level": 1,
+    "name": {
+      "local": "St. David",
+      "en": "Saint David",
+      "slug": "saint-david-gd03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.033",
+    "lon": "-61.683"
+  },
+  "metadata": {},
+  "source": {}
+}

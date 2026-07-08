@@ -1,0 +1,45 @@
+{
+  "id": "GD01L015",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lauriston",
+    "en": "Lauriston",
+    "slug": "lauriston-gd01l015"
+  },
+  "code": {
+    "id": "GD01L015",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD01",
+    "level": 1,
+    "name": {
+      "local": "Carriacou",
+      "en": "Carriacou",
+      "slug": "carriacou-gd01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD01",
+      "level": 1,
+      "name": {
+        "local": "Carriacou",
+        "en": "Carriacou",
+        "slug": "carriacou-gd01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.474",
+    "lon": "-61.473"
+  },
+  "metadata": {},
+  "source": {}
+}

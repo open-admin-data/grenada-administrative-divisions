@@ -1,0 +1,45 @@
+{
+  "id": "GD04L038",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Woburn",
+    "en": "Woburn",
+    "slug": "woburn-gd04l038"
+  },
+  "code": {
+    "id": "GD04L038",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD04",
+    "level": 1,
+    "name": {
+      "local": "St. George",
+      "en": "Saint George",
+      "slug": "saint-george-gd04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.021",
+    "lon": "-61.734"
+  },
+  "metadata": {},
+  "source": {}
+}

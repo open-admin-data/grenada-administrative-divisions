@@ -1,0 +1,45 @@
+{
+  "id": "GD03L010",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Terre Cannes",
+    "en": "Terre Cannes",
+    "slug": "terre-cannes-gd03l010"
+  },
+  "code": {
+    "id": "GD03L010",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD03",
+    "level": 1,
+    "name": {
+      "local": "St. David",
+      "en": "Saint David",
+      "slug": "saint-david-gd03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD03",
+      "level": 1,
+      "name": {
+        "local": "St. David",
+        "en": "Saint David",
+        "slug": "saint-david-gd03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.067",
+    "lon": "-61.667"
+  },
+  "metadata": {},
+  "source": {}
+}

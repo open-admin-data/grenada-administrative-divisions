@@ -1,0 +1,474 @@
+# Saint George — Grenada Administrative Divisions
+
+> 93 localitys
+> Code: GD04
+> Coordinates: 12.05, -61.733
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Amber Belair
+
+Code: GD04L068, Coordinates: 11.994, -61.755
+
+
+### Bamboo
+
+Code: GD04L041, Coordinates: 12.009, -61.788
+
+
+### Barrow
+
+Code: GD04L031, Coordinates: 12.05, -61.7
+
+
+### Beaton
+
+Code: GD04L025, Coordinates: 12.033, -61.7
+
+
+### Beaulieu
+
+Code: GD04L023, Coordinates: 12.067, -61.733
+
+
+### Becke Moui
+
+Code: GD04L073, Coordinates: 12.017, -61.697
+
+
+### Belle Plain
+
+Code: GD04L033, Coordinates: 12.033, -61.717
+
+
+### Belmont
+
+Code: GD04L075, Coordinates: 12.041, -61.748
+
+
+### Blow Hole
+
+Code: GD04L063, Coordinates: 11.997, -61.766
+
+
+### Boca
+
+Code: GD04L016, Coordinates: 12.067, -61.717
+
+
+### Bois de Gannes
+
+Code: GD04L009, Coordinates: 12.033, -61.7
+
+
+### Brizan
+
+Code: GD04L040, Coordinates: 12.1, -61.75
+
+
+### Cafe
+
+Code: GD04L044, Coordinates: 12.033, -61.733
+
+
+### Calivigny
+
+Code: GD04L003, Coordinates: 12.017, -61.733
+
+
+### Calliste
+
+Code: GD04L019, Coordinates: 12.01, -61.774
+
+
+### Clarkes Court
+
+Code: GD04L071, Coordinates: 12.033, -61.733
+
+
+### Confer
+
+Code: GD04L015, Coordinates: 12.017, -61.717
+
+
+### Constantine
+
+Code: GD04L085, Coordinates: 12.067, -61.717
+
+
+### Corbeau Town
+
+Code: GD04L026, Coordinates: 12.033, -61.717
+
+
+### D&#39;Arbeau
+
+Code: GD04L052, Coordinates: 12.05, -61.75
+
+
+### Egmont
+
+Code: GD04L008, Coordinates: 12.006, -61.722
+
+
+### Epping Forest
+
+Code: GD04L039, Coordinates: 12.033, -61.7
+
+
+### Falege
+
+Code: GD04L043, Coordinates: 12.033, -61.75
+
+
+### Fontenoy
+
+Code: GD04L048, Coordinates: 12.067, -61.75
+
+
+### Frequente
+
+Code: GD04L020, Coordinates: 12.014, -61.767
+
+
+### Golflands
+
+Code: GD04L066, Coordinates: 12.017, -61.75
+
+
+### Grand Anse
+
+Code: GD04L018, Coordinates: 12.017, -61.75
+
+
+### Grand Mal
+
+Code: GD04L083, Coordinates: 12.067, -61.75
+
+
+### Granton
+
+Code: GD04L062, Coordinates: 12.083, -61.717
+
+
+### Gretna Green
+
+Code: GD04L024, Coordinates: 12.05, -61.75
+
+
+### Gwa Kay
+
+Code: GD04L028, Coordinates: 12.017, -61.767
+
+
+### Happy Hill
+
+Code: GD04L051, Coordinates: 12.088, -61.757
+
+
+### Hermitage
+
+Code: GD04L012, Coordinates: 12.067, -61.733
+
+
+### Horne
+
+Code: GD04L072, Coordinates: 12.004, -61.756
+
+
+### Hyde Park
+
+Code: GD04L086, Coordinates: 12.05, -61.733
+
+
+### Ka-fe Beau
+
+Code: GD04L084, Coordinates: 12.033, -61.75
+
+
+### La Femme
+
+Code: GD04L053, Coordinates: 12.033, -61.7
+
+
+### La Mode
+
+Code: GD04L061, Coordinates: 12.067, -61.733
+
+
+### Laborie
+
+Code: GD04L054, Coordinates: 12.044, -61.728
+
+
+### Lance aux Epines
+
+Code: GD04L017, Coordinates: 11.998, -61.756
+
+
+### Laura
+
+Code: GD04L069, Coordinates: 12.033, -61.7
+
+
+### Lower Woburn
+
+Code: GD04L047, Coordinates: 12.017, -61.733
+
+
+### Magazine Beach
+
+Code: GD04L014, Coordinates: 12.012, -61.782
+
+
+### Mango
+
+Code: GD04L077, Coordinates: 12.083, -61.717
+
+
+### Mardigras
+
+Code: GD04L035, Coordinates: 12.05, -61.717
+
+
+### Mardigras
+
+Code: GD04L065, Coordinates: 12.05, -61.7
+
+
+### Marian
+
+Code: GD04L091, Coordinates: 12.017, -61.717
+
+
+### Moliniere
+
+Code: GD04L049, Coordinates: 12.083, -61.75
+
+
+### Mont Tout
+
+Code: GD04L011, Coordinates: 12.017, -61.75
+
+
+### Morne Docteur
+
+Code: GD04L067, Coordinates: 12.1, -61.75
+
+
+### Morne Jaloux
+
+Code: GD04L092, Coordinates: 12.017, -61.733
+
+
+### Morne Jaloux Ridge
+
+Code: GD04L089, Coordinates: 12.033, -61.733
+
+
+### Morne Rouge
+
+Code: GD04L057, Coordinates: 12.017, -61.767
+
+
+### Morne Tranquille
+
+Code: GD04L082, Coordinates: 12.05, -61.7
+
+
+### Mount Airy
+
+Code: GD04L079, Coordinates: 12.033, -61.717
+
+
+### Mount Gay
+
+Code: GD04L078, Coordinates: 12.05, -61.733
+
+
+### Mount Helicon
+
+Code: GD04L032, Coordinates: 12.05, -61.733
+
+
+### Mount Moritz
+
+Code: GD04L090, Coordinates: 12.082, -61.748
+
+
+### Mount Moritz Land Settlement
+
+Code: GD04L001, Coordinates: 12.088, -61.729
+
+
+### Mount Pleasant
+
+Code: GD04L034, Coordinates: 12.05, -61.7
+
+
+### Mount Rose
+
+Code: GD04L010, Coordinates: 12.033, -61.717
+
+
+### Mount Royal
+
+Code: GD04L074, Coordinates: 12.05, -61.75
+
+
+### Mount Weldale
+
+Code: GD04L050, Coordinates: 12.05, -61.75
+
+
+### New Hampshire
+
+Code: GD04L045, Coordinates: 12.083, -61.717
+
+
+### Paddock
+
+Code: GD04L087, Coordinates: 12.033, -61.733
+
+
+### Parade
+
+Code: GD04L030, Coordinates: 12.05, -61.733
+
+
+### Perdmontemps
+
+Code: GD04L058, Coordinates: 12.05, -61.7
+
+
+### Petit Bouc
+
+Code: GD04L064, Coordinates: 12.017, -61.75
+
+
+### Petit Calivigny
+
+Code: GD04L056, Coordinates: 12.006, -61.711
+
+
+### Radix
+
+Code: GD04L005, Coordinates: 12.05, -61.717
+
+
+### Ravine
+
+Code: GD04L076, Coordinates: 12.05, -61.733
+
+
+### Retreat
+
+Code: GD04L059, Coordinates: 12.067, -61.717
+
+
+### Richmond
+
+Code: GD04L013, Coordinates: 12.1, -61.733
+
+
+### Richmond Hill
+
+Code: GD04L021, Coordinates: 12.05, -61.733
+
+
+### Ruth Howard
+
+Code: GD04L046, Coordinates: 12.017, -61.75
+
+
+### Saint Paul&#39;s
+
+Code: GD04L022, Coordinates: 12.033, -61.717
+
+
+### Saint Paul&#39;s
+
+Code: GD04L070, Coordinates: 12.05, -61.717
+
+
+### Sans Souci
+
+Code: GD04L006, Coordinates: 12.05, -61.75
+
+
+### Snug Corner
+
+Code: GD04L042, Coordinates: 12.067, -61.733
+
+
+### Springs
+
+Code: GD04L055, Coordinates: 12.033, -61.733
+
+
+### Tanteen
+
+Code: GD04L007, Coordinates: 12.033, -61.733
+
+
+### Tempe
+
+Code: GD04L081, Coordinates: 12.05, -61.733
+
+
+### The Bocas
+
+Code: GD04L027, Coordinates: 12.033, -61.733
+
+
+### The Cliff
+
+Code: GD04L029, Coordinates: 12.017, -61.733
+
+
+### The Lime
+
+Code: GD04L060, Coordinates: 12.017, -61.767
+
+
+### The Park
+
+Code: GD04L093, Coordinates: 12.05, -61.717
+
+
+### True Blue
+
+Code: GD04L088, Coordinates: 12.004, -61.769
+
+
+### Vendome
+
+Code: GD04L004, Coordinates: 12.086, -61.713
+
+
+### Westerhall Land Settlement
+
+Code: GD04L002, Coordinates: 12.015, -61.727
+
+
+### Westerhall Point
+
+Code: GD04L080, Coordinates: 12.01, -61.701
+
+
+### White Gun
+
+Code: GD04L037, Coordinates: 12.05, -61.733
+
+
+### Willis
+
+Code: GD04L036, Coordinates: 12.083, -61.717
+
+
+### Woburn
+
+Code: GD04L038, Coordinates: 12.021, -61.734
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "GD07L011",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Rose Hill",
+    "en": "Rose Hill",
+    "slug": "rose-hill-gd07l011"
+  },
+  "code": {
+    "id": "GD07L011",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD07",
+    "level": 1,
+    "name": {
+      "local": "St. Patrick",
+      "en": "Saint Patrick",
+      "slug": "saint-patrick-gd07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD07",
+      "level": 1,
+      "name": {
+        "local": "St. Patrick",
+        "en": "Saint Patrick",
+        "slug": "saint-patrick-gd07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.2",
+    "lon": "-61.617"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "GD02L035",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Beauregard",
+    "en": "Beauregard",
+    "slug": "beauregard-gd02l035"
+  },
+  "code": {
+    "id": "GD02L035",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD02",
+    "level": 1,
+    "name": {
+      "local": "St. Andrew",
+      "en": "Saint Andrew",
+      "slug": "saint-andrew-gd02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD02",
+      "level": 1,
+      "name": {
+        "local": "St. Andrew",
+        "en": "Saint Andrew",
+        "slug": "saint-andrew-gd02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.113",
+    "lon": "-61.676"
+  },
+  "metadata": {},
+  "source": {}
+}

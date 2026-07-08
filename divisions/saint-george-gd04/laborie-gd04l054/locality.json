@@ -1,0 +1,45 @@
+{
+  "id": "GD04L054",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Laborie",
+    "en": "Laborie",
+    "slug": "laborie-gd04l054"
+  },
+  "code": {
+    "id": "GD04L054",
+    "iso": null
+  },
+  "parent": {
+    "id": "GD04",
+    "level": 1,
+    "name": {
+      "local": "St. George",
+      "en": "Saint George",
+      "slug": "saint-george-gd04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GD04",
+      "level": 1,
+      "name": {
+        "local": "St. George",
+        "en": "Saint George",
+        "slug": "saint-george-gd04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.044",
+    "lon": "-61.728"
+  },
+  "metadata": {},
+  "source": {}
+}
