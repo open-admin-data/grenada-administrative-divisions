@@ -3,7 +3,7 @@
 > 20 localitys
 > Code: GD05
 > Coordinates: 12.145, -61.712
-> Last updated: 2026-07-08. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 

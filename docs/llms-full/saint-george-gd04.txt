@@ -3,7 +3,7 @@
 > 93 localitys
 > Code: GD04
 > Coordinates: 12.05, -61.733
-> Last updated: 2026-07-08. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 

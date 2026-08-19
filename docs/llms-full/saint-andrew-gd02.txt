@@ -3,7 +3,7 @@
 > 68 localitys
 > Code: GD02
 > Coordinates: 12.116, -61.661
-> Last updated: 2026-07-08. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 
