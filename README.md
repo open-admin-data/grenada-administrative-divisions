@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/gd](https://openadmindata.org/gd/) |
 | API | [openadmindata.org/api/gd](https://openadmindata.org/api/gd/) |
+| Flag | [PNG](https://onlygames.me/flags-png/gd/) · [SVG](https://onlygames.me/flags-svg/gd/) · [PDF](https://onlygames.me/flags-pdf/gd/) |
 | National Anthem | [🎵 Listen & Download Grenada National Anthem MP3](https://onlygames.me/national-anthems/gd/) |
 
 ## Browse by Parish
